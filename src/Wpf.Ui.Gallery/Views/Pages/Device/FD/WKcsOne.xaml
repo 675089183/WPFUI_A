@@ -1,0 +1,84 @@
+<Page x:Class="Wpf.Ui.Gallery.Views.Pages.Device.FD.WKcsOne"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:controls="clr-namespace:Wpf.Ui.Gallery.Controls"
+      xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+      mc:Ignorable="d" 
+      controls:PageControlDocumentation.DocumentationType="{x:Type ui:NumberBox}"
+    
+      d:DesignHeight="1000" d:DesignWidth="1200"
+      Title="cs">
+
+    <Border  BorderBrush="Black" BorderThickness="1"  Padding="0" Style="{StaticResource CustomBorder}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Border Margin="0,0,0,0" Padding="5" Grid.Row="0" Background="#FAFAFA">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Margin="10" Text="温控耦合器状态：8" VerticalAlignment="Center" FontSize="20" Foreground="#199BFF"/>
+                    <ui:Button Grid.Column="1"  Appearance="Primary"  Content="批量设置比例P" Width="150" Margin="10,0,10,0"/>
+                    <ui:Button Grid.Column="2"  Appearance="Primary"  Content="批量设置积分I"  Width="150" Margin="10,0,10,0"/>
+                    <ui:Button Margin="10,0,10,0" Grid.Column="3"  Appearance="Primary"  Content="批量设置积分D"  Width="150"/>
+
+                </Grid>
+            </Border>
+
+            <!-- Top Section -->
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="55" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <Border Margin="0,0,0,0" Padding="10" Grid.Row="0" Background="LightBlue">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                           
+                        </Grid.ColumnDefinitions>
+
+
+                        <TextBlock Margin="10 0 10 0" Grid.Row="0" Grid.Column="0" Text="位置" Foreground="#F6FFFC" FontSize="18" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock  Grid.Row="0" Grid.Column="1" Text="当前PID参数-P" Foreground="#F6FFFC" FontSize="17" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="2" Text="设定PID参数-P" Foreground="#F6FFFC" FontSize="17" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="3" Text="当前PID参数-I" Foreground="#F6FFFC" FontSize="18" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="4" Text="设定PID参数-I" Foreground="#F6FFFC" FontSize="17" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="5" Text="当前PID参数-D" Foreground="#F6FFFC" FontSize="17" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+
+                        <TextBlock Grid.Row="0" Grid.Column="6" Text="设定PID参数-I" Foreground="#F6FFFC" FontSize="18" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                      
+                    </Grid>
+                </Border>
+                <Grid Grid.Row="2" Margin="0,0,0,0">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto">
+                        <ItemsControl ItemsSource="{Binding WKDataEntries}">
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                    <controls:WKcsus1 />
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+                    </ScrollViewer>
+                </Grid>
+            </Grid>
+
+
+        </Grid>
+    </Border>
+</Page>

@@ -1,0 +1,508 @@
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\CoverletSourceRootsMapping_Wpf.Ui.Gallery.UnitTests
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\WebView2Loader.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\WebView2Loader.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\WebView2Loader.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\testhost.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.deps.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.runtimeconfig.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\License - Fluent System Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\License - Microsoft.Ui.Xaml.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\License - Segoe Fluent Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\License - VirtualizingWrapPanel.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\License - Windows Presentation Foundation.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\License - Fira Code.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\License - Images.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\License - Monaco.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.exe
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\testhost.exe
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.runner.reporters.netcoreapp10.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.runner.utility.netcoreapp10.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\index.html
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\browser\ui\codicons\codicon\codicon.ttf
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.de.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.es.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.fr.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.it.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.ja.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.ko.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.ru.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.zh-cn.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.zh-tw.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\worker\workerMain.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\abap\abap.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\apex\apex.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\azcli\azcli.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\bat\bat.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\bicep\bicep.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\cameligo\cameligo.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\clojure\clojure.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\coffee\coffee.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\cpp\cpp.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\csharp\csharp.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\csp\csp.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\css\css.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\cypher\cypher.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\dart\dart.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\dockerfile\dockerfile.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\ecl\ecl.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\elixir\elixir.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\flow9\flow9.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\freemarker2\freemarker2.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\fsharp\fsharp.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\go\go.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\graphql\graphql.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\handlebars\handlebars.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\hcl\hcl.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\html\html.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\ini\ini.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\javascript\javascript.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\java\java.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\julia\julia.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\kotlin\kotlin.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\less\less.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\lexon\lexon.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\liquid\liquid.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\lua\lua.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\m3\m3.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\markdown\markdown.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\mdx\mdx.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\mips\mips.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\msdax\msdax.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\mysql\mysql.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\objective-c\objective-c.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pascaligo\pascaligo.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pascal\pascal.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\perl\perl.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pgsql\pgsql.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\php\php.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pla\pla.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\postiats\postiats.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\powerquery\powerquery.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\powershell\powershell.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\protobuf\protobuf.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pug\pug.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\python\python.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\qsharp\qsharp.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\razor\razor.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\redis\redis.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\redshift\redshift.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\restructuredtext\restructuredtext.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\ruby\ruby.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\rust\rust.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\r\r.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sb\sb.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\scala\scala.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\scheme\scheme.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\scss\scss.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\shell\shell.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\solidity\solidity.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sophia\sophia.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sparql\sparql.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sql\sql.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\st\st.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\swift\swift.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\systemverilog\systemverilog.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\tcl\tcl.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\twig\twig.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\typescript\typescript.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\vb\vb.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\wgsl\wgsl.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\xml\xml.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\yaml\yaml.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.css
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.de.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.es.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.fr.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.it.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.ja.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.ko.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.ru.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.zh-cn.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.zh-tw.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\css\cssMode.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\css\cssWorker.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\html\htmlMode.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\html\htmlWorker.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\json\jsonMode.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\json\jsonWorker.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\typescript\tsMode.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\typescript\tsWorker.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\loader.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.deps.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.runtimeconfig.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Castle.Core.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\CommunityToolkit.Mvvm.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\HarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\LiveCharts.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\LiveCharts.Wpf.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.SkiaSharpView.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.CodeAnalysis.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Json.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Diagnostics.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Hosting.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Console.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Debug.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Options.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Primitives.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.TestPlatform.Utilities.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.Core.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.WinForms.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.Wpf.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Newtonsoft.Json.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\NSubstitute.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\NuGet.Frameworks.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.HarfBuzz.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.Views.Desktop.Common.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.Views.WPF.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.abstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.assert.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.core.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.execution.dotnet.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\WinRT.Runtime.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.ToastNotifications.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Tray.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.ToastNotifications.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.ToastNotifications.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Tray.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Tray.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.csproj.AssemblyReference.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.AssemblyInfoInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.AssemblyInfo.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.csproj.CoreCompileInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.sourcelink.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.G.0BAD5483.Up2Date
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\refint\Wpf.Ui.Gallery.UnitTests.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.genruntimeconfig.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\ref\Wpf.Ui.Gallery.UnitTests.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\WebView2Loader.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\WebView2Loader.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\WebView2Loader.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\testhost.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\testhost.exe
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.runner.reporters.netcoreapp10.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.runner.utility.netcoreapp10.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.deps.json
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.runtimeconfig.json
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Castle.Core.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\CommunityToolkit.Mvvm.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\HarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\LiveCharts.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\LiveCharts.Wpf.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.SkiaSharpView.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.CodeAnalysis.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Json.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Diagnostics.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Hosting.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Console.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Debug.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Options.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Primitives.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.TestPlatform.Utilities.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.Core.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.WinForms.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.Wpf.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Newtonsoft.Json.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\NSubstitute.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\NuGet.Frameworks.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.HarfBuzz.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.Views.Desktop.Common.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.Views.WPF.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.abstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.assert.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.core.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\xunit.execution.dotnet.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\bin\Debug\net8.0-windows10.0.22621.0\WinRT.Runtime.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.csproj.AssemblyReference.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.AssemblyInfoInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.AssemblyInfo.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.csproj.CoreCompileInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.sourcelink.json
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.G.0BAD5483.Up2Date
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\refint\Wpf.Ui.Gallery.UnitTests.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.UnitTests.genruntimeconfig.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\tests\Wpf.Ui.Gallery.UnitTests\obj\Debug\net8.0-windows10.0.22621.0\ref\Wpf.Ui.Gallery.UnitTests.dll

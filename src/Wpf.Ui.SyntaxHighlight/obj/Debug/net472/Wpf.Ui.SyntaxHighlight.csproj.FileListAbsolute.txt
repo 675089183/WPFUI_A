@@ -1,0 +1,150 @@
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Fluent System Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Microsoft.Ui.Xaml.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Segoe Fluent Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - VirtualizingWrapPanel.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Windows Presentation Foundation.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\x86\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\x64\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\arm64\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\libSkiaSharp.dylib
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\x86\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\x64\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\arm64\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\libHarfBuzzSharp.dylib
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Fira Code.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\HarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveCharts.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveCharts.Wpf.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveChartsCore.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveChartsCore.SkiaSharpView.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Newtonsoft.Json.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\SkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\SkiaSharp.HarfBuzz.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\SkiaSharp.Views.Desktop.Common.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\SkiaSharp.Views.WPF.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Buffers.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Drawing.Common.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Memory.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.csproj.AssemblyReference.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\SyntaxHighlight.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight_MarkupCompile.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight_MarkupCompile.lref
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Controls\CodeBlock.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.g.resources
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.AssemblyInfoInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.AssemblyInfo.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.csproj.CoreCompileInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.sourcelink.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.S.418BD40C.Up2Date
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Fluent System Icons.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Microsoft.Ui.Xaml.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Segoe Fluent Icons.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - VirtualizingWrapPanel.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Windows Presentation Foundation.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\x86\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\x64\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\arm64\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\libSkiaSharp.dylib
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\x86\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\x64\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\arm64\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\libHarfBuzzSharp.dylib
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Fira Code.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.SyntaxHighlight.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\HarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveCharts.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveCharts.Wpf.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveChartsCore.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveChartsCore.SkiaSharpView.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Newtonsoft.Json.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\SkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\SkiaSharp.HarfBuzz.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\SkiaSharp.Views.Desktop.Common.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\SkiaSharp.Views.WPF.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Buffers.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Drawing.Common.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Memory.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.csproj.AssemblyReference.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\SyntaxHighlight.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight_MarkupCompile.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight_MarkupCompile.lref
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Controls\CodeBlock.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.g.resources
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.AssemblyInfoInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.AssemblyInfo.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.csproj.CoreCompileInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.sourcelink.json
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.S.418BD40C.Up2Date
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Fluent System Icons.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Microsoft.Ui.Xaml.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Segoe Fluent Icons.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - VirtualizingWrapPanel.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Windows Presentation Foundation.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\x86\libSkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\x64\libSkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\arm64\libSkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\libSkiaSharp.dylib
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\x86\libHarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\x64\libHarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\arm64\libHarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\libHarfBuzzSharp.dylib
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\License - Fira Code.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\HarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveCharts.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveCharts.Wpf.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveChartsCore.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveChartsCore.SkiaSharpView.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Newtonsoft.Json.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\SkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\SkiaSharp.HarfBuzz.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\SkiaSharp.Views.Desktop.Common.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\SkiaSharp.Views.WPF.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Buffers.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Drawing.Common.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Memory.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net472\Wpf.Ui.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.csproj.AssemblyReference.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\SyntaxHighlight.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight_MarkupCompile.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight_MarkupCompile.lref
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Controls\CodeBlock.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.g.resources
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.AssemblyInfoInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.AssemblyInfo.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.csproj.CoreCompileInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.sourcelink.json
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.S.418BD40C.Up2Date
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net472\Wpf.Ui.SyntaxHighlight.pdb

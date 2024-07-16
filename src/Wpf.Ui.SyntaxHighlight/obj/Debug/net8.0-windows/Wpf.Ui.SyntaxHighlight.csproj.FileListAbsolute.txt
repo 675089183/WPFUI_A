@@ -1,0 +1,87 @@
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Fluent System Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Microsoft.Ui.Xaml.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Segoe Fluent Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - VirtualizingWrapPanel.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Windows Presentation Foundation.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Fira Code.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.deps.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.csproj.AssemblyReference.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\SyntaxHighlight.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight_MarkupCompile.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight_MarkupCompile.lref
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Controls\CodeBlock.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.g.resources
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.AssemblyInfoInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.AssemblyInfo.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.csproj.CoreCompileInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.sourcelink.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.S.418BD40C.Up2Date
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\refint\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\ref\Wpf.Ui.SyntaxHighlight.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Fluent System Icons.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Microsoft.Ui.Xaml.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Segoe Fluent Icons.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - VirtualizingWrapPanel.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Windows Presentation Foundation.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Fira Code.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.deps.json
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.csproj.AssemblyReference.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\SyntaxHighlight.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight_MarkupCompile.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight_MarkupCompile.lref
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Controls\CodeBlock.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.g.resources
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.AssemblyInfoInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.AssemblyInfo.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.csproj.CoreCompileInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.sourcelink.json
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.S.418BD40C.Up2Date
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\refint\Wpf.Ui.SyntaxHighlight.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\ref\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Fluent System Icons.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Microsoft.Ui.Xaml.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Segoe Fluent Icons.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - VirtualizingWrapPanel.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Windows Presentation Foundation.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\License - Fira Code.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.deps.json
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net8.0-windows\Wpf.Ui.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.csproj.AssemblyReference.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\SyntaxHighlight.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight_MarkupCompile.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight_MarkupCompile.lref
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Controls\CodeBlock.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.g.resources
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.AssemblyInfoInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.AssemblyInfo.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.csproj.CoreCompileInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.sourcelink.json
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.S.418BD40C.Up2Date
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\refint\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net8.0-windows\ref\Wpf.Ui.SyntaxHighlight.dll

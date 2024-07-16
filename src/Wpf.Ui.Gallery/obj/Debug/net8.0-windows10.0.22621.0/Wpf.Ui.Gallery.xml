@@ -1,0 +1,2039 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Wpf.Ui.Gallery</name>
+    </assembly>
+    <members>
+        <member name="T:Wpf.Ui.Gallery.App">
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.ControlExample.HeaderTextProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.ControlExample.HeaderText"/> dependency property.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.ControlExample.ExampleContentProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.ControlExample.ExampleContent"/> dependency property.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.ControlExample.XamlCodeProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.ControlExample.XamlCode"/> dependency property.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.ControlExample.XamlCodeSourceProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.ControlExample.XamlCodeSource"/> dependency property.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.ControlExample.CsharpCodeProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.ControlExample.CsharpCode"/> dependency property.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.ControlExample.CsharpCodeSourceProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.ControlExample.CsharpCodeSource"/> dependency property.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Controls.FSjktwo_us">
+            <summary>
+            FSjktwo_us.xaml 的交互逻辑
+            </summary>
+            <summary>
+            FSjktwo_us
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.FSjktwo_us.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.GalleryNavigationPresenter.ItemsSourceProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.GalleryNavigationPresenter.ItemsSource"/> dependency property.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.GalleryNavigationPresenter.TemplateButtonCommandProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.GalleryNavigationPresenter.TemplateButtonCommand"/> dependency property.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.Controls.GalleryNavigationPresenter.TemplateButtonCommand">
+            <summary>
+            Gets the command triggered after clicking the titlebar button.
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.GalleryNavigationPresenter.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Wpf.Ui.Gallery.Controls.GalleryNavigationPresenter"/> class.
+            Creates a new instance of the class and sets the default <see cref="E:System.Windows.FrameworkElement.Loaded"/> event.
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Controls.IOLight">
+            <summary>
+            IOLight
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.IOLight.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Controls.IOUS">
+            <summary>
+            IOUS
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.IOUS.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Controls.MDcs_us">
+            <summary>
+            MDcs_us.xaml 的交互逻辑
+            </summary>
+            <summary>
+            MDcs_us
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.MDcs_us.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Controls.MDjk_us">
+            <summary>
+            MDjk_us.xaml 的交互逻辑
+            </summary>
+            <summary>
+            MDjk_us
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.MDjk_us.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.PageControlDocumentation.GetShow(System.Windows.FrameworkElement)">
+            <summary>Helper for getting <see cref="F:Wpf.Ui.Gallery.Controls.PageControlDocumentation.ShowProperty"/> from <paramref name="target"/>.</summary>
+            <param name="target"><see cref="T:System.Windows.FrameworkElement"/> to read <see cref="F:Wpf.Ui.Gallery.Controls.PageControlDocumentation.ShowProperty"/> from.</param>
+            <returns>Show property value.</returns>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.PageControlDocumentation.SetShow(System.Windows.FrameworkElement,System.Boolean)">
+            <summary>Helper for setting <see cref="F:Wpf.Ui.Gallery.Controls.PageControlDocumentation.ShowProperty"/> on <paramref name="target"/>.</summary>
+            <param name="target"><see cref="T:System.Windows.FrameworkElement"/> to set <see cref="F:Wpf.Ui.Gallery.Controls.PageControlDocumentation.ShowProperty"/> on.</param>
+            <param name="show">Show property value.</param>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.PageControlDocumentation.GetDocumentationType(System.Windows.FrameworkElement)">
+            <summary>Helper for getting <see cref="F:Wpf.Ui.Gallery.Controls.PageControlDocumentation.DocumentationTypeProperty"/> from <paramref name="target"/>.</summary>
+            <param name="target"><see cref="T:System.Windows.FrameworkElement"/> to read <see cref="F:Wpf.Ui.Gallery.Controls.PageControlDocumentation.DocumentationTypeProperty"/> from.</param>
+            <returns>DocumentationType property value.</returns>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.PageControlDocumentation.SetDocumentationType(System.Windows.FrameworkElement,System.Type)">
+            <summary>Helper for setting <see cref="F:Wpf.Ui.Gallery.Controls.PageControlDocumentation.DocumentationTypeProperty"/> on <paramref name="target"/>.</summary>
+            <param name="target"><see cref="T:System.Windows.FrameworkElement"/> to set <see cref="F:Wpf.Ui.Gallery.Controls.PageControlDocumentation.DocumentationTypeProperty"/> on.</param>
+            <param name="type">DocumentationType property value.</param>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.PageControlDocumentation.NavigationViewProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.PageControlDocumentation.NavigationView"/> dependency property.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.PageControlDocumentation.IsDocumentationLinkVisibleProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.PageControlDocumentation.IsDocumentationLinkVisible"/> dependency property.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.PageControlDocumentation.TemplateButtonCommandProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.PageControlDocumentation.TemplateButtonCommand"/> dependency property.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Controls.SignalLightControl">
+            <summary>
+            SignalLightControl
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.SignalLightControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Controls.TermsOfUseContentDialog">
+            <summary>
+            TermsOfUseContentDialog
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.TermsOfUseContentDialog.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.TypographyControl.ExampleProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.TypographyControl.Example"/> dependency property.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.TypographyControl.ExampleFontTypographyProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.TypographyControl.ExampleFontTypography"/> dependency property.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.TypographyControl.VariableFontProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.TypographyControl.VariableFont"/> dependency property.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.TypographyControl.SizeLinHeightProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.TypographyControl.SizeLinHeight"/> dependency property.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.Controls.TypographyControl.FontTypographyStyleProperty">
+            <summary>Identifies the <see cref="P:Wpf.Ui.Gallery.Controls.TypographyControl.FontTypographyStyle"/> dependency property.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Controls.WKcsus1">
+            <summary>
+            WKcsus1.xaml 的交互逻辑
+            </summary>
+            <summary>
+            WKcsus1
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.WKcsus1.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Controls.WKcsus2">
+            <summary>
+            WKcsus2.xaml 的交互逻辑
+            </summary>
+            <summary>
+            WKcsus2
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.WKcsus2.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Controls.WKglus">
+            <summary>
+            WKglus.xaml 的交互逻辑
+            </summary>
+            <summary>
+            WKglus
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Controls.WKglus.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Login.LoginWindow">
+            <summary>
+            LoginWindow
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Login.LoginWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Services.ApplicationHostService">
+            <summary>
+            Managed host of the application.
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Services.ApplicationHostService.StartAsync(System.Threading.CancellationToken)">
+            <summary>
+            Triggered when the application host is ready to start the service.
+            </summary>
+            <param name="cancellationToken">Indicates that the start process has been aborted.</param>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Services.ApplicationHostService.StopAsync(System.Threading.CancellationToken)">
+            <summary>
+            Triggered when the application host is performing a graceful shutdown.
+            </summary>
+            <param name="cancellationToken">Indicates that the shutdown process should no longer be graceful.</param>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Services.ApplicationHostService.HandleActivationAsync">
+            <summary>
+            Creates main window during activation.
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.AllControlsViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.AllControlsViewModel.NavigationCards">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.AllControlsViewModel._navigationCards"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.AnchorViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.AnchorViewModel.IsAnchorEnabled">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.AnchorViewModel._isAnchorEnabled"/>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.AnchorViewModel.anchorCheckboxCheckedCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.AnchorViewModel.AnchorCheckboxCheckedCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.AnchorViewModel.AnchorCheckboxCheckedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.AnchorViewModel.OnAnchorCheckboxChecked(System.Object)"/>.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.BasicInputViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.BasicInputViewModel.NavigationCards">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.BasicInputViewModel._navigationCards"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ButtonViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ButtonViewModel.IsSimpleButtonEnabled">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ButtonViewModel._isSimpleButtonEnabled"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ButtonViewModel.IsUiButtonEnabled">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ButtonViewModel._isUiButtonEnabled"/>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ButtonViewModel.simpleButtonCheckboxCheckedCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ButtonViewModel.SimpleButtonCheckboxCheckedCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ButtonViewModel.SimpleButtonCheckboxCheckedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ButtonViewModel.OnSimpleButtonCheckboxChecked(System.Object)"/>.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ButtonViewModel.uiButtonCheckboxCheckedCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ButtonViewModel.UiButtonCheckboxCheckedCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ButtonViewModel.UiButtonCheckboxCheckedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ButtonViewModel.OnUiButtonCheckboxChecked(System.Object)"/>.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel.SelectAllCheckBoxChecked">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel._selectAllCheckBoxChecked"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel.OptionOneCheckBoxChecked">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel._optionOneCheckBoxChecked"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel.OptionTwoCheckBoxChecked">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel._optionTwoCheckBoxChecked"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel.OptionThreeCheckBoxChecked">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel._optionThreeCheckBoxChecked"/>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel.selectAllCheckedCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel.SelectAllCheckedCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel.SelectAllCheckedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel.OnSelectAllChecked(System.Object)"/>.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel.singleCheckedCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel.SingleCheckedCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel.SingleCheckedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.CheckBoxViewModel.OnSingleChecked(System.String)"/>.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ComboBoxViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ComboBoxViewModel.ComboBoxFontFamilies">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ComboBoxViewModel._comboBoxFontFamilies"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ComboBoxViewModel.ComboBoxFontSizes">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ComboBoxViewModel._comboBoxFontSizes"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.HyperlinkButtonViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.HyperlinkButtonViewModel.IsHyperlinkEnabled">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.HyperlinkButtonViewModel._isHyperlinkEnabled"/>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.HyperlinkButtonViewModel.hyperlinkCheckboxCheckedCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.HyperlinkButtonViewModel.HyperlinkCheckboxCheckedCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.HyperlinkButtonViewModel.HyperlinkCheckboxCheckedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.HyperlinkButtonViewModel.OnHyperlinkCheckboxChecked(System.Object)"/>.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RadioButtonViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RadioButtonViewModel.IsRadioButtonEnabled">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RadioButtonViewModel._isRadioButtonEnabled"/>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RadioButtonViewModel.radioButtonCheckboxCheckedCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RadioButtonViewModel.RadioButtonCheckboxCheckedCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RadioButtonViewModel.RadioButtonCheckboxCheckedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RadioButtonViewModel.OnRadioButtonCheckboxChecked(System.Object)"/>.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel.IsFirstRatingEnabled">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel._isFirstRatingEnabled"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel.FirstRatingValue">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel._firstRatingValue"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel.IsSecondRatingEnabled">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel._isSecondRatingEnabled"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel.SecondRatingValue">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel._secondRatingValue"/>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel.firstRatingCheckboxCheckedCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel.FirstRatingCheckboxCheckedCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel.FirstRatingCheckboxCheckedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel.OnFirstRatingCheckboxChecked(System.Object)"/>.</summary>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel.secondRatingCheckboxCheckedCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel.SecondRatingCheckboxCheckedCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel.SecondRatingCheckboxCheckedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.RatingViewModel.OnSecondRatingCheckboxChecked(System.Object)"/>.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.SliderViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.SliderViewModel.SimpleSliderValue">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.SliderViewModel._simpleSliderValue"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.SliderViewModel.RangeSliderValue">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.SliderViewModel._rangeSliderValue"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.SliderViewModel.MarksSliderValue">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.SliderViewModel._marksSliderValue"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.SliderViewModel.VerticalSliderValue">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.SliderViewModel._verticalSliderValue"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ThumbRateViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ThumbRateViewModel.ThumRateStateText">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ThumbRateViewModel._thumRateStateText"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ThumbRateViewModel.ThumRateStateCodeText">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ThumbRateViewModel._thumRateStateCodeText"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleButtonViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleButtonViewModel.IsToggleButtonEnabled">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleButtonViewModel._isToggleButtonEnabled"/>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleButtonViewModel.toggleButtonCheckboxCheckedCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleButtonViewModel.ToggleButtonCheckboxCheckedCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleButtonViewModel.ToggleButtonCheckboxCheckedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleButtonViewModel.OnToggleButtonCheckboxChecked(System.Object)"/>.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleSwitchViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleSwitchViewModel.IsToggleSwitchEnabled">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleSwitchViewModel._isToggleSwitchEnabled"/>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleSwitchViewModel.toggleSwitchCheckboxCheckedCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleSwitchViewModel.ToggleSwitchCheckboxCheckedCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleSwitchViewModel.ToggleSwitchCheckboxCheckedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Pages.BasicInput.ToggleSwitchViewModel.OnToggleSwitchCheckboxChecked(System.Object)"/>.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Collections.CollectionsViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Collections.CollectionsViewModel.NavigationCards">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Collections.CollectionsViewModel._navigationCards"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Collections.DataGridViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Collections.DataGridViewModel.ProductsCollection">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Collections.DataGridViewModel._productsCollection"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Collections.ListBoxViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Collections.ListBoxViewModel.ListBoxItems">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Collections.ListBoxViewModel._listBoxItems"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Collections.ListViewViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Collections.ListViewViewModel.ListViewSelectionMode">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Collections.ListViewViewModel._listViewSelectionMode"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Collections.ListViewViewModel.BasicListViewItems">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Collections.ListViewViewModel._basicListViewItems"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.DashboardViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Pages.DashboardViewModel.cardClickCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.DashboardViewModel.CardClickCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.DashboardViewModel.CardClickCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Pages.DashboardViewModel.OnCardClick(System.String)"/>.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Device.MD.MDcsViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Device.MD.MDcsViewModel.NavigationCards">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Device.MD.MDcsViewModel._navigationCards"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Device.MD.MDjkViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Device.MD.MDjkViewModel.NavigationCards">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Device.MD.MDjkViewModel._navigationCards"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Device.MD.MDViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Device.MD.MDViewModel.NavigationCards">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Device.MD.MDViewModel._navigationCards"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Device.TyViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Device.TyViewModel.NavigationCards">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Device.TyViewModel._navigationCards"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Equipment.AdjustMDViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Equipment.AdjustMDViewModel.NavigationCards">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Equipment.AdjustMDViewModel._navigationCards"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Equipment.DeviceViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Equipment.DeviceViewModel.NavigationCards">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Equipment.DeviceViewModel._navigationCards"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Navigation.NavigationViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Navigation.NavigationViewModel.NavigationCards">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Navigation.NavigationViewModel._navigationCards"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Produce.FormulationViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Produce.FormulationViewModel.ProductsCollection">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Produce.FormulationViewModel._productsCollection"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Produce.PlanViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Produce.PlanViewModel.ProductsCollection">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Produce.PlanViewModel._productsCollection"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.Produce.ProductsViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.Produce.ProductsViewModel.ProductsCollection">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.Produce.ProductsViewModel._productsCollection"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.SettingsViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.SettingsViewModel.AppVersion">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.SettingsViewModel._appVersion"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.SettingsViewModel.CurrentApplicationTheme">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.SettingsViewModel._currentApplicationTheme"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.SettingsViewModel.CurrentApplicationNavigationStyle">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.SettingsViewModel._currentApplicationNavigationStyle"/>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.ViewModels.Pages.SettingsViewModel.OnCurrentApplicationThemeChanged(Wpf.Ui.Appearance.ApplicationTheme,Wpf.Ui.Appearance.ApplicationTheme)">
+            <summary>Executes the logic for when <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.SettingsViewModel.CurrentApplicationTheme"/> just changed.</summary>
+            <param name="oldValue">The previous property value that was replaced.</param>
+            <param name="newValue">The new property value that was set.</param>
+            <remarks>This method is invoked right after the value of <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.SettingsViewModel.CurrentApplicationTheme"/> is changed.</remarks>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.ViewModels.Pages.SettingsViewModel.OnCurrentApplicationNavigationStyleChanged(Wpf.Ui.Controls.NavigationViewPaneDisplayMode,Wpf.Ui.Controls.NavigationViewPaneDisplayMode)">
+            <summary>Executes the logic for when <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.SettingsViewModel.CurrentApplicationNavigationStyle"/> just changed.</summary>
+            <param name="oldValue">The previous property value that was replaced.</param>
+            <param name="newValue">The new property value that was set.</param>
+            <remarks>This method is invoked right after the value of <see cref="P:Wpf.Ui.Gallery.ViewModels.Pages.SettingsViewModel.CurrentApplicationNavigationStyle"/> is changed.</remarks>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.InfoBadgeViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.InfoBadgeViewModel.InfoBadgeSeverity">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.InfoBadgeViewModel._infoBadgeSeverity"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.InfoBarViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.InfoBarViewModel.IsShortInfoBarOpened">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.InfoBarViewModel._isShortInfoBarOpened"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.InfoBarViewModel.IsLongInfoBarOpened">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.InfoBarViewModel._isLongInfoBarOpened"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.InfoBarViewModel.ShortInfoBarSeverity">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.InfoBarViewModel._shortInfoBarSeverity"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.InfoBarViewModel.LongInfoBarSeverity">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.InfoBarViewModel._longInfoBarSeverity"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.StatusAndInfoViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.StatusAndInfoViewModel.NavigationCards">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Pages.StatusAndInfo.StatusAndInfoViewModel._navigationCards"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel.IsWordWrapEnbaled">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel._isWordWrapEnbaled"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel.IsStatusBarVisible">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel._isStatusBarVisible"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel.Progress">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel._progress"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel.CurrentlyOpenedFile">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel._currentlyOpenedFile"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel.StatusBarVisibility">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel._statusBarVisibility"/>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel.statusBarActionCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel.StatusBarActionCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel.StatusBarActionCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Windows.EditorWindowViewModel.OnStatusBarAction(System.String)"/>.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Windows.MainWindowViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Windows.MainWindowViewModel.ApplicationTitle">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Windows.MainWindowViewModel._applicationTitle"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Windows.MainWindowViewModel.MenuItems">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Windows.MainWindowViewModel._menuItems"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Windows.MainWindowViewModel.FooterMenuItems">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Windows.MainWindowViewModel._footerMenuItems"/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Windows.MainWindowViewModel.TrayMenuItems">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Windows.MainWindowViewModel._trayMenuItems"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Windows.MonacoWindowViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="F:Wpf.Ui.Gallery.ViewModels.Windows.MonacoWindowViewModel.menuActionCommand">
+            <summary>The backing field for <see cref="P:Wpf.Ui.Gallery.ViewModels.Windows.MonacoWindowViewModel.MenuActionCommand"/>.</summary>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Windows.MonacoWindowViewModel.MenuActionCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Wpf.Ui.Gallery.ViewModels.Windows.MonacoWindowViewModel.OnMenuAction(System.String)"/>.</summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.ViewModels.Windows.SandboxWindowViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Wpf.Ui.Gallery.ViewModels.Windows.SandboxWindowViewModel.AutoSuggestBoxText">
+            <inheritdoc cref="F:Wpf.Ui.Gallery.ViewModels.Windows.SandboxWindowViewModel._autoSuggestBoxText"/>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.AllControlsPage">
+            <summary>
+            AllControlsPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.AllControlsPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.AnchorPage">
+            <summary>
+            AnchorPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.AnchorPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.BasicInputPage">
+            <summary>
+            BasicInputPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.BasicInputPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.ButtonPage">
+            <summary>
+            ButtonPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.ButtonPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.CheckBoxPage">
+            <summary>
+            CheckBoxPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.CheckBoxPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.ComboBoxPage">
+            <summary>
+            ComboBoxPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.ComboBoxPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.DropDownButtonPage">
+            <summary>
+            DropDownButtonPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.DropDownButtonPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.HyperlinkButtonPage">
+            <summary>
+            HyperlinkButtonPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.HyperlinkButtonPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.RadioButtonPage">
+            <summary>
+            RadioButtonPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.RadioButtonPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.RatingPage">
+            <summary>
+            RatingPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.RatingPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.SliderPage">
+            <summary>
+            SliderPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.SliderPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.SplitButtonPage">
+            <summary>
+            SplitButtonPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.SplitButtonPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.ThumbRatePage">
+            <summary>
+            ThumbRatePage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.ThumbRatePage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.ToggleButtonPage">
+            <summary>
+            ToggleButtonPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.ToggleButtonPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.BasicInput.ToggleSwitchPage">
+            <summary>
+            ToggleSwitchPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.BasicInput.ToggleSwitchPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Collections.CollectionsPage">
+            <summary>
+            CollectionsPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Collections.CollectionsPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Collections.DataGridPage">
+            <summary>
+            DataGridPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Collections.DataGridPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.DashboardPage">
+            <summary>
+            DashboardPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.DashboardPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Automaticlubrication.AutomaticlubricationCs">
+            <summary>
+            AutomaticlubricationCs.xaml 的交互逻辑
+            </summary>
+            <summary>
+            AutomaticlubricationCs
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Automaticlubrication.AutomaticlubricationCs.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Automaticlubrication.AutomaticlubricationJk">
+            <summary>
+            AutomaticlubricationJk.xaml 的交互逻辑
+            </summary>
+            <summary>
+            AutomaticlubricationJk
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Automaticlubrication.AutomaticlubricationJk.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.BS">
+            <summary>
+            BS.xaml 的交互逻辑
+            </summary>
+            <summary>
+            BS
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.BS.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.CDXC">
+            <summary>
+            CDXC.xaml 的交互逻辑
+            </summary>
+            <summary>
+            CDXC
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.CDXC.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Colorscales.ColorscalesCs">
+            <summary>
+            ColorscalesCs.xaml 的交互逻辑
+            </summary>
+            <summary>
+            ColorscalesCs
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Colorscales.ColorscalesCs.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Colorscales.ColorscalesJk">
+            <summary>
+            ColorscalesJk.xaml 的交互逻辑
+            </summary>
+            <summary>
+            ColorscalesJk
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Colorscales.ColorscalesJk.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Cutterandsort.CutterandsortCs">
+            <summary>
+            CutterandsortCs.xaml 的交互逻辑
+            </summary>
+            <summary>
+            CutterandsortCs
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Cutterandsort.CutterandsortCs.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Cutterandsort.CutterandsortJk">
+            <summary>
+            CutterandsortJk.xaml 的交互逻辑
+            </summary>
+            <summary>
+            CutterandsortJk
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Cutterandsort.CutterandsortJk.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Easytotear.EasytotearCs">
+            <summary>
+            EasytotearCs.xaml 的交互逻辑
+            </summary>
+            <summary>
+            EasytotearCs
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Easytotear.EasytotearCs.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Easytotear.EasytotearJk">
+            <summary>
+            EasytotearJk.xaml 的交互逻辑
+            </summary>
+            <summary>
+            EasytotearJk
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Easytotear.EasytotearJk.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.ESK">
+            <summary>
+            ESKxaml.xaml 的交互逻辑
+            </summary>
+            <summary>
+            ESK
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.ESK.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.FD.ColorPCPage">
+            <summary>
+            ColorPCPage.xaml 的交互逻辑
+            </summary>
+            <summary>
+            ColorPCPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.FD.ColorPCPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.FD.DataJk">
+            <summary>
+            DataJk.xaml 的交互逻辑
+            </summary>
+            <summary>
+            DataJk
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.FD.DataJk.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.FD.WKcsOne">
+            <summary>
+            WKcsOne.xaml 的交互逻辑
+            </summary>
+            <summary>
+            WKcsOne
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.FD.WKcsOne.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.FD.WKcsSecond">
+            <summary>
+            WKcsSecond.xaml 的交互逻辑
+            </summary>
+            <summary>
+            WKcsSecond
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.FD.WKcsSecond.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.FJDM">
+            <summary>
+            FJDM.xaml 的交互逻辑
+            </summary>
+            <summary>
+            FJDM
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.FJDM.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.HF">
+            <summary>
+            HF.xaml 的交互逻辑
+            </summary>
+            <summary>
+            HF
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.HF.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Horizontalsealing.HorizontalsealingCs">
+            <summary>
+            Horizontal_sealingCs.xaml 的交互逻辑
+            </summary>
+            <summary>
+            HorizontalsealingCs
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Horizontalsealing.HorizontalsealingCs.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Horizontalsealing.HorizontalsealingDj">
+            <summary>
+            HorizontalsealingDj.xaml 的交互逻辑
+            </summary>
+            <summary>
+            HorizontalsealingDj
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Horizontalsealing.HorizontalsealingDj.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Horizontalsealing.HorizontalsealingJk">
+            <summary>
+            HorizontalsealingJk.xaml 的交互逻辑
+            </summary>
+            <summary>
+            HorizontalsealingJk
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Horizontalsealing.HorizontalsealingJk.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.IO">
+            <summary>
+            IO.xaml 的交互逻辑
+            </summary>
+            <summary>
+            IO
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.IO.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Longitudinalsealing.LongitudinalsealingJk">
+            <summary>
+            LongitudinalsealingJk.xaml 的交互逻辑
+            </summary>
+            <summary>
+            LongitudinalsealingJk
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Longitudinalsealing.LongitudinalsealingJk.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.MD">
+            <summary>
+            MD.xaml 的交互逻辑
+            </summary>
+            <summary>
+            MD
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.MD.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.BSjk">
+            <summary>
+            BSjk.xaml 的交互逻辑
+            </summary>
+            <summary>
+            BSjk
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.BSjk.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.FSjk2">
+            <summary>
+            FSjk2.xaml 的交互逻辑
+            </summary>
+            <summary>
+            FSjk2
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.FSjk2.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.IOcsPage">
+            <summary>
+            IOcsPage.xaml 的交互逻辑
+            </summary>
+            <summary>
+            IOcsPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.IOcsPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.IOjkPage">
+            <summary>
+            IOjkPage.xaml 的交互逻辑
+            </summary>
+            <summary>
+            IOjkPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.IOjkPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.MDcs">
+            <summary>
+            MDcs.xaml 的交互逻辑
+            </summary>
+            <summary>
+            MDcs
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.MDcs.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.MDjk">
+            <summary>
+            MDjk.xaml 的交互逻辑
+            </summary>
+            <summary>
+            MDjk
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.MDjk.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.TCjc">
+            <summary>
+            TCjc.xaml 的交互逻辑
+            </summary>
+            <summary>
+            TCjc
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.TCjc.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.WKgl">
+            <summary>
+            WKgl.xaml 的交互逻辑
+            </summary>
+            <summary>
+            WKgl
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.WKgl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Nitrogenfillingandvacuuming.NVCs">
+            <summary>
+            NVCs.xaml 的交互逻辑
+            </summary>
+            <summary>
+            NVCs
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Nitrogenfillingandvacuuming.NVCs.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Nitrogenfillingandvacuuming.NVJk">
+            <summary>
+            NVJk.xaml 的交互逻辑
+            </summary>
+            <summary>
+            NVJk
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Nitrogenfillingandvacuuming.NVJk.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.QDXB">
+            <summary>
+            QDXB.xaml 的交互逻辑
+            </summary>
+            <summary>
+            QDXB
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.QDXB.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Sb">
+            <summary>
+            Sb.xaml 的交互逻辑
+            </summary>
+            <summary>
+            Sb
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Sb.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Screwfilling.ScrewfillingCs">
+            <summary>
+            Screwfillingcs.xaml 的交互逻辑
+            </summary>
+            <summary>
+            ScrewfillingCs
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Screwfilling.ScrewfillingCs.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Screwfilling.ScrewfillingJk">
+            <summary>
+            Screwfillingjk.xaml 的交互逻辑
+            </summary>
+            <summary>
+            ScrewfillingJk
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Screwfilling.ScrewfillingJk.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Sf">
+            <summary>
+            Sf.xaml 的交互逻辑
+            </summary>
+            <summary>
+            Sf
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Sf.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.TC">
+            <summary>
+            TC.xaml 的交互逻辑
+            </summary>
+            <summary>
+            TC
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.TC.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.Ty">
+            <summary>
+            Ty.xaml 的交互逻辑
+            </summary>
+            <summary>
+            Ty
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.Ty.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.TY.Cs">
+            <summary>
+            cs.xaml 的交互逻辑
+            </summary>
+            <summary>
+            Cs
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.TY.Cs.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.TY.Jk">
+            <summary>
+            jk.xaml 的交互逻辑
+            </summary>
+            <summary>
+            Jk
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.TY.Jk.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.UnwindingandCoding.UCCs">
+            <summary>
+            UCCs.xaml 的交互逻辑
+            </summary>
+            <summary>
+            UCCs
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.UnwindingandCoding.UCCs.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.UnwindingandCoding.UCjk">
+            <summary>
+            UCjk.xaml 的交互逻辑
+            </summary>
+            <summary>
+            UCjk
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.UnwindingandCoding.UCjk.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.ZDRH">
+            <summary>
+            ZDRH.xaml 的交互逻辑
+            </summary>
+            <summary>
+            ZDRH
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.ZDRH.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Device.ZF">
+            <summary>
+            ZF.xaml 的交互逻辑
+            </summary>
+            <summary>
+            ZF
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Device.ZF.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Equipment.AdjustMD">
+            <summary>
+            AdjustMD.xaml 的交互逻辑
+            </summary>
+            <summary>
+            AdjustMD
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Equipment.AdjustMD.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Equipment.Device">
+            <summary>
+            Device.xaml 的交互逻辑
+            </summary>
+            <summary>
+            Device
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Equipment.Device.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Equipment.FScs">
+            <summary>
+            FScs.xaml 的交互逻辑
+            </summary>
+            <summary>
+            FScs
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Equipment.FScs.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Equipment.IOHead">
+            <summary>
+            IOHead.xaml 的交互逻辑
+            </summary>
+            <summary>
+            IOHead
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Equipment.IOHead.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Equipment.Servomonitoring">
+            <summary>
+            Servomonitoring.xaml 的交互逻辑
+            </summary>
+            <summary>
+            Servomonitoring
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Equipment.Servomonitoring.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Navigation.NavigationPage">
+            <summary>
+            NavigationPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Navigation.NavigationPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Navigation.NavigationViewPage">
+            <summary>
+            NavigationViewPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Navigation.NavigationViewPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Page1">
+            <summary>
+            Page1.xaml 的交互逻辑
+            </summary>
+            <summary>
+            Page1
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Page1.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Produce.Formulation">
+            <summary>
+            Formulation
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Produce.Formulation.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:Wpf.Ui.Gallery.Views.Pages.Produce.Plan" -->
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Produce.Plan.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:Wpf.Ui.Gallery.Views.Pages.Produce.Products" -->
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Produce.Products.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Servo.Packingmachine">
+            <summary>
+            Packingmachine.xaml 的交互逻辑
+            </summary>
+            <summary>
+            Packingmachine
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Servo.Packingmachine.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Servo.screw">
+            <summary>
+            screw.xaml 的交互逻辑
+            </summary>
+            <summary>
+            screw
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Servo.screw.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.SettingsPage">
+            <summary>
+            SettingsPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.SettingsPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Statistics.Alarmrecording">
+            <summary>
+            Alarmrecording.xaml 的交互逻辑
+            </summary>
+            <summary>
+            Alarmrecording
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Statistics.Alarmrecording.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Statistics.Historicaloperations">
+            <summary>
+            Historicaloperations.xaml 的交互逻辑
+            </summary>
+            <summary>
+            Historicaloperations
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Statistics.Historicaloperations.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.StatusAndInfo.InfoBadgePage">
+            <summary>
+            Interaction logic for InfoBadgePage.xaml
+            </summary>
+            <summary>
+            InfoBadgePage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.StatusAndInfo.InfoBadgePage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.StatusAndInfo.InfoBarPage">
+            <summary>
+            InfoBarPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.StatusAndInfo.InfoBarPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.StatusAndInfo.ProgressBarPage">
+            <summary>
+            ProgressBarPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.StatusAndInfo.ProgressBarPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.StatusAndInfo.ProgressRingPage">
+            <summary>
+            ProgressRingPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.StatusAndInfo.ProgressRingPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.StatusAndInfo.StatusAndInfoPage">
+            <summary>
+            StatusAndInfoPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.StatusAndInfo.StatusAndInfoPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.StatusAndInfo.ToolTipPage">
+            <summary>
+            ToolTipPage
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.StatusAndInfo.ToolTipPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Pages.Tool.Usermanagement">
+            <summary>
+            Usermanagement.xaml 的交互逻辑
+            </summary>
+            <summary>
+            Usermanagement
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Pages.Tool.Usermanagement.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Windows.EditorWindow">
+            <summary>
+            EditorWindow
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Windows.EditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Windows.MainWindow">
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Windows.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Windows.MonacoWindow">
+            <summary>
+            MonacoWindow
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Windows.MonacoWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Wpf.Ui.Gallery.Views.Windows.SandboxWindow">
+            <summary>
+            SandboxWindow
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.Gallery.Views.Windows.SandboxWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:XamlGeneratedNamespace.GeneratedInternalTypeHelper">
+            <summary>
+            GeneratedInternalTypeHelper
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateInstance(System.Type,System.Globalization.CultureInfo)">
+            <summary>
+            CreateInstance
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.GetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            GetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            SetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateDelegate(System.Type,System.Object,System.String)">
+            <summary>
+            CreateDelegate
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.AddEventHandler(System.Reflection.EventInfo,System.Object,System.Delegate)">
+            <summary>
+            AddEventHandler
+            </summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.NavigationCards">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "NavigationCards" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsAnchorEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsAnchorEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsSimpleButtonEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsSimpleButtonEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsUiButtonEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsUiButtonEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SelectAllCheckBoxChecked">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SelectAllCheckBoxChecked" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.OptionOneCheckBoxChecked">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "OptionOneCheckBoxChecked" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.OptionTwoCheckBoxChecked">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "OptionTwoCheckBoxChecked" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.OptionThreeCheckBoxChecked">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "OptionThreeCheckBoxChecked" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ComboBoxFontFamilies">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ComboBoxFontFamilies" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ComboBoxFontSizes">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ComboBoxFontSizes" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsHyperlinkEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsHyperlinkEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsRadioButtonEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsRadioButtonEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsFirstRatingEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsFirstRatingEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.FirstRatingValue">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "FirstRatingValue" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsSecondRatingEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsSecondRatingEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SecondRatingValue">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SecondRatingValue" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SimpleSliderValue">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SimpleSliderValue" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.RangeSliderValue">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "RangeSliderValue" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.MarksSliderValue">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "MarksSliderValue" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.VerticalSliderValue">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "VerticalSliderValue" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ThumRateStateText">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ThumRateStateText" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ThumRateStateCodeText">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ThumRateStateCodeText" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsToggleButtonEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsToggleButtonEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsToggleSwitchEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsToggleSwitchEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ProductsCollection">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ProductsCollection" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ListBoxItems">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ListBoxItems" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ListViewSelectionMode">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ListViewSelectionMode" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.BasicListViewItems">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "BasicListViewItems" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.AppVersion">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "AppVersion" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.CurrentApplicationTheme">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "CurrentApplicationTheme" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.CurrentApplicationNavigationStyle">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "CurrentApplicationNavigationStyle" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.InfoBadgeSeverity">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "InfoBadgeSeverity" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsShortInfoBarOpened">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsShortInfoBarOpened" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsLongInfoBarOpened">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsLongInfoBarOpened" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ShortInfoBarSeverity">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ShortInfoBarSeverity" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.LongInfoBarSeverity">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "LongInfoBarSeverity" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsWordWrapEnbaled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsWordWrapEnbaled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsStatusBarVisible">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsStatusBarVisible" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Progress">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Progress" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.CurrentlyOpenedFile">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "CurrentlyOpenedFile" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.StatusBarVisibility">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "StatusBarVisibility" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ApplicationTitle">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ApplicationTitle" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.MenuItems">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "MenuItems" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.FooterMenuItems">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "FooterMenuItems" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.TrayMenuItems">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "TrayMenuItems" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.AutoSuggestBoxText">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "AutoSuggestBoxText" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.NavigationCards">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "NavigationCards" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsAnchorEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsAnchorEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsSimpleButtonEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsSimpleButtonEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsUiButtonEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsUiButtonEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SelectAllCheckBoxChecked">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SelectAllCheckBoxChecked" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.OptionOneCheckBoxChecked">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "OptionOneCheckBoxChecked" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.OptionTwoCheckBoxChecked">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "OptionTwoCheckBoxChecked" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.OptionThreeCheckBoxChecked">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "OptionThreeCheckBoxChecked" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ComboBoxFontFamilies">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ComboBoxFontFamilies" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ComboBoxFontSizes">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ComboBoxFontSizes" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsHyperlinkEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsHyperlinkEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsRadioButtonEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsRadioButtonEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsFirstRatingEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsFirstRatingEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.FirstRatingValue">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "FirstRatingValue" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsSecondRatingEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsSecondRatingEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SecondRatingValue">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SecondRatingValue" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SimpleSliderValue">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SimpleSliderValue" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.RangeSliderValue">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "RangeSliderValue" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.MarksSliderValue">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "MarksSliderValue" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.VerticalSliderValue">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "VerticalSliderValue" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ThumRateStateText">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ThumRateStateText" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ThumRateStateCodeText">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ThumRateStateCodeText" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsToggleButtonEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsToggleButtonEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsToggleSwitchEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsToggleSwitchEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ProductsCollection">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ProductsCollection" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ListBoxItems">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ListBoxItems" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ListViewSelectionMode">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ListViewSelectionMode" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.BasicListViewItems">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "BasicListViewItems" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.AppVersion">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "AppVersion" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.CurrentApplicationTheme">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "CurrentApplicationTheme" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.CurrentApplicationNavigationStyle">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "CurrentApplicationNavigationStyle" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.InfoBadgeSeverity">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "InfoBadgeSeverity" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsShortInfoBarOpened">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsShortInfoBarOpened" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsLongInfoBarOpened">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsLongInfoBarOpened" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ShortInfoBarSeverity">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ShortInfoBarSeverity" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.LongInfoBarSeverity">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "LongInfoBarSeverity" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsWordWrapEnbaled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsWordWrapEnbaled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsStatusBarVisible">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsStatusBarVisible" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Progress">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Progress" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.CurrentlyOpenedFile">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "CurrentlyOpenedFile" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.StatusBarVisibility">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "StatusBarVisibility" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ApplicationTitle">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ApplicationTitle" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.MenuItems">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "MenuItems" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.FooterMenuItems">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "FooterMenuItems" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.TrayMenuItems">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "TrayMenuItems" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.AutoSuggestBoxText">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "AutoSuggestBoxText" generated properties.</summary>
+        </member>
+    </members>
+</doc>

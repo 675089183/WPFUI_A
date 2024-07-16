@@ -1,0 +1,1309 @@
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\WebView2Loader.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\WebView2Loader.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\WebView2Loader.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Fluent System Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Microsoft.Ui.Xaml.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Segoe Fluent Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - VirtualizingWrapPanel.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Windows Presentation Foundation.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Fira Code.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Images.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Monaco.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.exe
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\index.html
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\browser\ui\codicons\codicon\codicon.ttf
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.de.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.es.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.fr.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.it.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.ja.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.ko.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.ru.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.zh-cn.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.zh-tw.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\worker\workerMain.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\abap\abap.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\apex\apex.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\azcli\azcli.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\bat\bat.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\bicep\bicep.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\cameligo\cameligo.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\clojure\clojure.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\coffee\coffee.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\cpp\cpp.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\csharp\csharp.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\csp\csp.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\css\css.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\cypher\cypher.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\dart\dart.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\dockerfile\dockerfile.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\ecl\ecl.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\elixir\elixir.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\flow9\flow9.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\freemarker2\freemarker2.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\fsharp\fsharp.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\go\go.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\graphql\graphql.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\handlebars\handlebars.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\hcl\hcl.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\html\html.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\ini\ini.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\javascript\javascript.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\java\java.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\julia\julia.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\kotlin\kotlin.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\less\less.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\lexon\lexon.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\liquid\liquid.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\lua\lua.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\m3\m3.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\markdown\markdown.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\mdx\mdx.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\mips\mips.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\msdax\msdax.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\mysql\mysql.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\objective-c\objective-c.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pascaligo\pascaligo.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pascal\pascal.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\perl\perl.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pgsql\pgsql.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\php\php.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pla\pla.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\postiats\postiats.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\powerquery\powerquery.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\powershell\powershell.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\protobuf\protobuf.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pug\pug.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\python\python.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\qsharp\qsharp.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\razor\razor.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\redis\redis.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\redshift\redshift.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\restructuredtext\restructuredtext.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\ruby\ruby.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\rust\rust.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\r\r.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sb\sb.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\scala\scala.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\scheme\scheme.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\scss\scss.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\shell\shell.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\solidity\solidity.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sophia\sophia.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sparql\sparql.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sql\sql.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\st\st.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\swift\swift.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\systemverilog\systemverilog.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\tcl\tcl.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\twig\twig.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\typescript\typescript.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\vb\vb.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\wgsl\wgsl.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\xml\xml.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\yaml\yaml.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.css
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.de.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.es.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.fr.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.it.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.ja.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.ko.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.ru.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.zh-cn.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.zh-tw.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\css\cssMode.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\css\cssWorker.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\html\htmlMode.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\html\htmlWorker.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\json\jsonMode.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\json\jsonWorker.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\typescript\tsMode.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\typescript\tsWorker.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\loader.js
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.deps.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.runtimeconfig.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\CommunityToolkit.Mvvm.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\HarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveCharts.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveCharts.Wpf.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.SkiaSharpView.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.CodeAnalysis.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Json.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Diagnostics.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Hosting.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Console.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Debug.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Options.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Primitives.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.Core.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.WinForms.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.Wpf.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.HarfBuzz.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.Views.Desktop.Common.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.Views.WPF.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\WinRT.Runtime.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.ToastNotifications.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Tray.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.ToastNotifications.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.ToastNotifications.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Tray.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Tray.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.csproj.AssemblyReference.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\TermsOfUseContentDialog.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\AllControlsPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\AnchorPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\BasicInputPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ButtonPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\CheckBoxPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ComboBoxPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\DropDownButtonPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\HyperlinkButtonPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\RadioButtonPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\RatingPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\SliderPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\SplitButtonPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ThumbRatePage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ToggleButtonPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ToggleSwitchPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\CollectionsPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\DataGridPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\ListBoxPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\ListViewPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\TreeListPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\TreeViewPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DashboardPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DateAndTime\CalendarDatePickerPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DateAndTime\CalendarPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DateAndTime\DateAndTimePage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DateAndTime\DatePickerPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DateAndTime\TimePickerPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DesignGuidance\ColorsPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DesignGuidance\IconsPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DesignGuidance\TypographyPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DialogsAndFlyouts\ContentDialog.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DialogsAndFlyouts\DialogsAndFlyoutsPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DialogsAndFlyouts\FlyoutPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DialogsAndFlyouts\MessageBoxPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DialogsAndFlyouts\SnackbarPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Layout\CardActionPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Layout\CardControlPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Layout\ExpanderPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Layout\LayoutPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Media\CanvasPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Media\ImagePage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Media\MediaPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Media\WebBrowserPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Media\WebViewPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\BreadcrumbBarPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\MenuPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\MultilevelNavigationPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\NavigationPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\NavigationViewPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\TabControlPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\TabViewPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\OpSystem\ClipboardPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\OpSystem\FilePickerPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\OpSystem\OpSystemPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Page1.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Samples\MultilevelNavigationSamplePage1.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Samples\MultilevelNavigationSamplePage2.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Samples\MultilevelNavigationSamplePage3.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Samples\SamplePage1.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Samples\SamplePage2.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Samples\SamplePage3.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\SettingsPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\InfoBadgePage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\InfoBarPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ProgressBarPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ProgressRingPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\StatusAndInfoPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ToolTipPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\AutoSuggestBoxPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\LabelPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\NumberBoxPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\PasswordBoxPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\RichTextBoxPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\TextBlockPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\TextBoxPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\TextPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Windows\WindowsPage.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\EditorWindow.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\MainWindow.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\MonacoWindow.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\SandboxWindow.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\App.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery_Content.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\GeneratedInternalTypeHelper.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery_MarkupCompile.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery_MarkupCompile.lref
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\App.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\ControlExample.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\GalleryNavigationPresenter.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\PageControlDocumentation.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\TermsOfUseContentDialog.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\TypographyControl.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\AllControlsPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\AnchorPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\BasicInputPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ButtonPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\CheckBoxPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ComboBoxPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\DropDownButtonPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\HyperlinkButtonPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\RadioButtonPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\RatingPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\SliderPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\SplitButtonPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ThumbRatePage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ToggleButtonPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ToggleSwitchPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\CollectionsPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\DataGridPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\ListBoxPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\ListViewPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\TreeListPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\TreeViewPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DashboardPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DateAndTime\CalendarDatePickerPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DateAndTime\CalendarPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DateAndTime\DateAndTimePage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DateAndTime\DatePickerPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DateAndTime\TimePickerPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DesignGuidance\ColorsPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DesignGuidance\IconsPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DesignGuidance\TypographyPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DialogsAndFlyouts\ContentDialog.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DialogsAndFlyouts\DialogsAndFlyoutsPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DialogsAndFlyouts\FlyoutPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DialogsAndFlyouts\MessageBoxPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DialogsAndFlyouts\SnackbarPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Layout\CardActionPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Layout\CardControlPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Layout\ExpanderPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Layout\LayoutPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Media\CanvasPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Media\ImagePage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Media\MediaPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Media\WebBrowserPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Media\WebViewPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\BreadcrumbBarPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\MenuPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\MultilevelNavigationPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\NavigationPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\NavigationViewPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\TabControlPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\TabViewPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\OpSystem\ClipboardPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\OpSystem\FilePickerPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\OpSystem\OpSystemPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Page1.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Samples\MultilevelNavigationSamplePage1.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Samples\MultilevelNavigationSamplePage2.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Samples\MultilevelNavigationSamplePage3.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Samples\SamplePage1.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Samples\SamplePage2.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Samples\SamplePage3.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\SettingsPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\InfoBadgePage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\InfoBarPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ProgressBarPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ProgressRingPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\StatusAndInfoPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ToolTipPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\AutoSuggestBoxPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\LabelPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\NumberBoxPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\PasswordBoxPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\RichTextBoxPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\TextBlockPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\TextBoxPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Text\TextPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Windows\WindowsPage.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\EditorWindow.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\MainWindow.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\MonacoWindow.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\SandboxWindow.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.g.resources
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.AssemblyInfoInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.AssemblyInfo.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.csproj.CoreCompileInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.sourcelink.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.G.B20E2B2A.Up2Date
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\refint\Wpf.Ui.Gallery.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.genruntimeconfig.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\ref\Wpf.Ui.Gallery.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\WebView2Loader.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\WebView2Loader.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\WebView2Loader.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Fluent System Icons.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Microsoft.Ui.Xaml.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Segoe Fluent Icons.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - VirtualizingWrapPanel.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Windows Presentation Foundation.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Fira Code.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Images.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Monaco.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.exe
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\index.html
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\browser\ui\codicons\codicon\codicon.ttf
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.de.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.es.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.fr.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.it.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.ja.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.ko.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.ru.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.zh-cn.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.zh-tw.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\worker\workerMain.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\abap\abap.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\apex\apex.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\azcli\azcli.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\bat\bat.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\bicep\bicep.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\cameligo\cameligo.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\clojure\clojure.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\coffee\coffee.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\cpp\cpp.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\csharp\csharp.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\csp\csp.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\css\css.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\cypher\cypher.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\dart\dart.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\dockerfile\dockerfile.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\ecl\ecl.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\elixir\elixir.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\flow9\flow9.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\freemarker2\freemarker2.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\fsharp\fsharp.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\go\go.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\graphql\graphql.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\handlebars\handlebars.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\hcl\hcl.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\html\html.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\ini\ini.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\javascript\javascript.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\java\java.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\julia\julia.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\kotlin\kotlin.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\less\less.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\lexon\lexon.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\liquid\liquid.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\lua\lua.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\m3\m3.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\markdown\markdown.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\mdx\mdx.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\mips\mips.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\msdax\msdax.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\mysql\mysql.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\objective-c\objective-c.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pascaligo\pascaligo.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pascal\pascal.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\perl\perl.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pgsql\pgsql.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\php\php.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pla\pla.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\postiats\postiats.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\powerquery\powerquery.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\powershell\powershell.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\protobuf\protobuf.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pug\pug.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\python\python.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\qsharp\qsharp.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\razor\razor.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\redis\redis.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\redshift\redshift.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\restructuredtext\restructuredtext.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\ruby\ruby.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\rust\rust.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\r\r.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sb\sb.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\scala\scala.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\scheme\scheme.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\scss\scss.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\shell\shell.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\solidity\solidity.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sophia\sophia.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sparql\sparql.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sql\sql.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\st\st.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\swift\swift.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\systemverilog\systemverilog.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\tcl\tcl.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\twig\twig.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\typescript\typescript.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\vb\vb.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\wgsl\wgsl.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\xml\xml.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\yaml\yaml.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.css
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.de.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.es.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.fr.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.it.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.ja.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.ko.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.ru.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.zh-cn.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.zh-tw.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\css\cssMode.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\css\cssWorker.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\html\htmlMode.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\html\htmlWorker.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\json\jsonMode.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\json\jsonWorker.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\typescript\tsMode.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\typescript\tsWorker.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\loader.js
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.deps.json
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.runtimeconfig.json
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\CommunityToolkit.Mvvm.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\HarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveCharts.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveCharts.Wpf.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.SkiaSharpView.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.CodeAnalysis.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Json.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Diagnostics.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Hosting.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Console.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Debug.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Options.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Primitives.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.Core.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.WinForms.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.Wpf.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.HarfBuzz.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.Views.Desktop.Common.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.Views.WPF.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\WinRT.Runtime.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.SyntaxHighlight.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.ToastNotifications.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Tray.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.ToastNotifications.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.ToastNotifications.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Tray.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Tray.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.csproj.AssemblyReference.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\Border.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\TermsOfUseContentDialog.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\AllControlsPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\AnchorPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\BasicInputPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ButtonPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\CheckBoxPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ComboBoxPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\DropDownButtonPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\HyperlinkButtonPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\RadioButtonPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\RatingPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\SliderPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\SplitButtonPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ThumbRatePage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ToggleButtonPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ToggleSwitchPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DashboardPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\Device.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\NavigationPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\NavigationViewPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Page1.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Produce\Formulation.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Produce\Plan.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Produce\Products.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\SettingsPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\InfoBadgePage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\InfoBarPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ProgressBarPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ProgressRingPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\StatusAndInfoPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ToolTipPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\EditorWindow.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\MainWindow.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\MonacoWindow.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\SandboxWindow.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\App.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery_Content.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\GeneratedInternalTypeHelper.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery_MarkupCompile.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery_MarkupCompile.lref
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\App.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\ControlExample.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\GalleryNavigationPresenter.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\PageControlDocumentation.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\TermsOfUseContentDialog.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\TypographyControl.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\AllControlsPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\AnchorPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\BasicInputPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ButtonPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\CheckBoxPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ComboBoxPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\DropDownButtonPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\HyperlinkButtonPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\RadioButtonPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\RatingPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\SliderPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\SplitButtonPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ThumbRatePage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ToggleButtonPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ToggleSwitchPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DashboardPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\Device.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\NavigationPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\NavigationViewPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Page1.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Produce\Formulation.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Produce\Plan.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Produce\Products.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\SettingsPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\InfoBadgePage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\InfoBarPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ProgressBarPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ProgressRingPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\StatusAndInfoPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ToolTipPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\EditorWindow.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\MainWindow.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\MonacoWindow.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\SandboxWindow.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.g.resources
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.AssemblyInfoInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.AssemblyInfo.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.csproj.CoreCompileInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.sourcelink.json
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.G.B20E2B2A.Up2Date
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\refint\Wpf.Ui.Gallery.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.genruntimeconfig.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\ref\Wpf.Ui.Gallery.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Ty.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Ty.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\TY\cs.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\TY\jk.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\TY\cs.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\TY\jk.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FJDM.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FJDM.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\UnwindingandCoding\UCCs.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\UnwindingandCoding\UCjk.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\UnwindingandCoding\UCCs.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\UnwindingandCoding\UCjk.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Colorscales\ColorscalesCs.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Colorscales\ColorscalesJk.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Sb.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Colorscales\ColorscalesCs.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Colorscales\ColorscalesJk.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Sb.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Screwfilling\ScrewfillingCs.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Screwfilling\ScrewfillingJk.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Screwfilling\ScrewfillingCs.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Screwfilling\ScrewfillingJk.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Sf.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Sf.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\CDXC.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Nitrogenfillingandvacuuming\NVJk.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\CDXC.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Nitrogenfillingandvacuuming\NVJk.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Longitudinalsealing\LongitudinalsealingJk.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Nitrogenfillingandvacuuming\NVCs.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\ZF.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Longitudinalsealing\LongitudinalsealingJk.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Nitrogenfillingandvacuuming\NVCs.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\ZF.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\HF.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Horizontalsealing\HorizontalsealingDj.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Horizontalsealing\HorizontalsealingJk.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Horizontalsealing\HorizontalsealingDj.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Horizontalsealing\HorizontalsealingJk.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Horizontalsealing\HorizontalsealingCs.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\HF.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Horizontalsealing\HorizontalsealingCs.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Easytotear\EasytotearCs.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Easytotear\EasytotearJk.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\ESK.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Easytotear\EasytotearCs.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Easytotear\EasytotearJk.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\ESK.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\QDXB.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\QDXB.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Cutterandsort\CutterandsortCs.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Cutterandsort\CutterandsortJk.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Cutterandsort\CutterandsortCs.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Cutterandsort\CutterandsortJk.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Automaticlubrication\AutomaticlubricationCs.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Automaticlubrication\AutomaticlubricationJk.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\ZDRH.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Automaticlubrication\AutomaticlubricationCs.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Automaticlubrication\AutomaticlubricationJk.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\ZDRH.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Tool\Usermanagement.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Tool\Usermanagement.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Statistics\Alarmrecording.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Statistics\Historicaloperations.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Statistics\Alarmrecording.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Statistics\Historicaloperations.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\Servomonitoring.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Servo\Packingmachine.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Servo\screw.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\Servomonitoring.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Servo\Packingmachine.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Servo\screw.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Login\LoginWindow.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Login\LoginWindow.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\IOLight.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\FSjktwo_us.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\IOLight.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\IOUS.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\MDcs_us.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\MDjk_us.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\SignalLightControl.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\WKcsus1.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\WKcsus2.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\WKglus.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\CollectionsPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\DataGridPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\BS.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\ColorPCPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\DataJk.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\WKcsOne.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\WKcsSecond.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\IO.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MD.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\BSjk.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\FSjk2.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\IOcsPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\IOjkPage.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\MDcs.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\MDjk.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\TCjc.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\WKgl.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\TC.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\AdjustMD.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\FScs.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\IOHead.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\FSjktwo_us.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\IOUS.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\MDcs_us.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\MDjk_us.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\SignalLightControl.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\WKcsus1.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\WKcsus2.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\WKglus.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\CollectionsPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\DataGridPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\BS.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\ColorPCPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\DataJk.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\WKcsOne.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\WKcsSecond.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\IO.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MD.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\BSjk.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\FSjk2.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\IOcsPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\IOjkPage.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\MDcs.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\MDjk.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\TCjc.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\WKgl.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\TC.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\AdjustMD.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\FScs.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\IOHead.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Fluent System Icons.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Microsoft.Ui.Xaml.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Segoe Fluent Icons.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - VirtualizingWrapPanel.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Windows Presentation Foundation.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Fira Code.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\WebView2Loader.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\WebView2Loader.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\WebView2Loader.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Images.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\License - Monaco.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.exe
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\index.html
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\browser\ui\codicons\codicon\codicon.ttf
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.de.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.es.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.fr.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.it.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.ja.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.ko.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.ru.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.zh-cn.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\common\worker\simpleWorker.nls.zh-tw.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\base\worker\workerMain.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\abap\abap.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\apex\apex.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\azcli\azcli.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\bat\bat.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\bicep\bicep.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\cameligo\cameligo.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\clojure\clojure.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\coffee\coffee.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\cpp\cpp.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\csharp\csharp.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\csp\csp.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\css\css.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\cypher\cypher.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\dart\dart.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\dockerfile\dockerfile.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\ecl\ecl.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\elixir\elixir.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\flow9\flow9.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\freemarker2\freemarker2.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\fsharp\fsharp.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\go\go.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\graphql\graphql.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\handlebars\handlebars.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\hcl\hcl.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\html\html.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\ini\ini.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\javascript\javascript.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\java\java.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\julia\julia.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\kotlin\kotlin.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\less\less.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\lexon\lexon.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\liquid\liquid.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\lua\lua.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\m3\m3.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\markdown\markdown.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\mdx\mdx.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\mips\mips.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\msdax\msdax.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\mysql\mysql.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\objective-c\objective-c.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pascaligo\pascaligo.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pascal\pascal.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\perl\perl.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pgsql\pgsql.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\php\php.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pla\pla.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\postiats\postiats.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\powerquery\powerquery.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\powershell\powershell.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\protobuf\protobuf.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\pug\pug.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\python\python.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\qsharp\qsharp.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\razor\razor.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\redis\redis.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\redshift\redshift.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\restructuredtext\restructuredtext.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\ruby\ruby.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\rust\rust.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\r\r.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sb\sb.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\scala\scala.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\scheme\scheme.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\scss\scss.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\shell\shell.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\solidity\solidity.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sophia\sophia.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sparql\sparql.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\sql\sql.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\st\st.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\swift\swift.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\systemverilog\systemverilog.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\tcl\tcl.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\twig\twig.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\typescript\typescript.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\vb\vb.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\wgsl\wgsl.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\xml\xml.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\basic-languages\yaml\yaml.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.css
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.de.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.es.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.fr.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.it.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.ja.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.ko.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.ru.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.zh-cn.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\editor\editor.main.nls.zh-tw.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\css\cssMode.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\css\cssWorker.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\html\htmlMode.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\html\htmlWorker.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\json\jsonMode.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\json\jsonWorker.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\typescript\tsMode.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\language\typescript\tsWorker.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Assets\Monaco\min\vs\loader.js
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.deps.json
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.runtimeconfig.json
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\CommunityToolkit.Mvvm.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\HarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveCharts.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveCharts.Wpf.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.SkiaSharpView.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.CodeAnalysis.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Json.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Diagnostics.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Hosting.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Console.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.Debug.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Options.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Extensions.Primitives.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.Core.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.WinForms.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Web.WebView2.Wpf.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.HarfBuzz.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.Views.Desktop.Common.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\SkiaSharp.Views.WPF.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\WinRT.Runtime.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.ToastNotifications.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Tray.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.ToastNotifications.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.ToastNotifications.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Tray.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Tray.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\bin\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.csproj.AssemblyReference.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\Border.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\IOLight.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Login\LoginWindow.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\FSjktwo_us.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\IOLight.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\IOUS.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\MDcs_us.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\MDjk_us.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\SignalLightControl.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\TermsOfUseContentDialog.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\WKcsus1.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\WKcsus2.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\WKglus.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Login\LoginWindow.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\AllControlsPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\AnchorPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\BasicInputPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ButtonPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\CheckBoxPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ComboBoxPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\DropDownButtonPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\HyperlinkButtonPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\RadioButtonPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\RatingPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\SliderPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\SplitButtonPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ThumbRatePage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ToggleButtonPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ToggleSwitchPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\CollectionsPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\DataGridPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DashboardPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Automaticlubrication\AutomaticlubricationCs.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Automaticlubrication\AutomaticlubricationJk.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\BS.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\CDXC.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Colorscales\ColorscalesCs.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Colorscales\ColorscalesJk.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Cutterandsort\CutterandsortCs.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Cutterandsort\CutterandsortJk.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Easytotear\EasytotearCs.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Easytotear\EasytotearJk.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\ESK.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\ColorPCPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\DataJk.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\WKcsOne.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\WKcsSecond.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FJDM.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\HF.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Horizontalsealing\HorizontalsealingCs.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Horizontalsealing\HorizontalsealingDj.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Horizontalsealing\HorizontalsealingJk.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\IO.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Longitudinalsealing\LongitudinalsealingJk.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MD.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\BSjk.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\FSjk2.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\IOcsPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\IOjkPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\MDcs.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\MDjk.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\TCjc.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\WKgl.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Nitrogenfillingandvacuuming\NVCs.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Nitrogenfillingandvacuuming\NVJk.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\QDXB.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Sb.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Screwfilling\ScrewfillingCs.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Screwfilling\ScrewfillingJk.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Sf.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\TC.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Ty.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\TY\Cs.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\TY\Jk.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\UnwindingandCoding\UCCs.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\UnwindingandCoding\UCjk.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\ZDRH.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\ZF.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\AdjustMD.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\Device.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\FScs.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\IOHead.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\Servomonitoring.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\NavigationPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\NavigationViewPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Page1.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Produce\Formulation.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Produce\Plan.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Produce\Products.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Servo\Packingmachine.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Servo\screw.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\SettingsPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Statistics\Alarmrecording.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Statistics\Historicaloperations.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\InfoBadgePage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\InfoBarPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ProgressBarPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ProgressRingPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\StatusAndInfoPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ToolTipPage.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Tool\Usermanagement.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\EditorWindow.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\MainWindow.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\MonacoWindow.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\SandboxWindow.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\App.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery_Content.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\GeneratedInternalTypeHelper.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery_MarkupCompile.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery_MarkupCompile.lref
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\App.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\ControlExample.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\FSjktwo_us.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\GalleryNavigationPresenter.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\IOUS.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\MDcs_us.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\MDjk_us.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\PageControlDocumentation.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\SignalLightControl.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\TermsOfUseContentDialog.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\TypographyControl.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\WKcsus1.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\WKcsus2.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Controls\WKglus.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\AllControlsPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\AnchorPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\BasicInputPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ButtonPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\CheckBoxPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ComboBoxPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\DropDownButtonPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\HyperlinkButtonPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\RadioButtonPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\RatingPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\SliderPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\SplitButtonPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ThumbRatePage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ToggleButtonPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\BasicInput\ToggleSwitchPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\CollectionsPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Collections\DataGridPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\DashboardPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Automaticlubrication\AutomaticlubricationCs.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Automaticlubrication\AutomaticlubricationJk.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\BS.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\CDXC.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Colorscales\ColorscalesCs.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Colorscales\ColorscalesJk.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Cutterandsort\CutterandsortCs.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Cutterandsort\CutterandsortJk.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Easytotear\EasytotearCs.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Easytotear\EasytotearJk.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\ESK.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\ColorPCPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\DataJk.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\WKcsOne.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FD\WKcsSecond.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\FJDM.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\HF.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Horizontalsealing\HorizontalsealingCs.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Horizontalsealing\HorizontalsealingDj.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Horizontalsealing\HorizontalsealingJk.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\IO.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Longitudinalsealing\LongitudinalsealingJk.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MD.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\BSjk.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\FSjk2.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\IOcsPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\IOjkPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\MDcs.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\MDjk.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\TCjc.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\MDexaple\WKgl.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Nitrogenfillingandvacuuming\NVCs.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Nitrogenfillingandvacuuming\NVJk.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\QDXB.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Sb.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Screwfilling\ScrewfillingCs.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Screwfilling\ScrewfillingJk.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Sf.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\TC.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\Ty.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\TY\Cs.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\TY\Jk.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\UnwindingandCoding\UCCs.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\UnwindingandCoding\UCjk.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\ZDRH.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Device\ZF.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\AdjustMD.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\Device.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\FScs.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\IOHead.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Equipment\Servomonitoring.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\NavigationPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Navigation\NavigationViewPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Page1.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Produce\Formulation.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Produce\Plan.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Produce\Products.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Servo\Packingmachine.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Servo\screw.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\SettingsPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Statistics\Alarmrecording.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Statistics\Historicaloperations.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\InfoBadgePage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\InfoBarPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ProgressBarPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ProgressRingPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\StatusAndInfoPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\StatusAndInfo\ToolTipPage.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Pages\Tool\Usermanagement.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\EditorWindow.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\MainWindow.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\MonacoWindow.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Views\Windows\SandboxWindow.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.g.resources
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.AssemblyInfoInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.AssemblyInfo.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.csproj.CoreCompileInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.sourcelink.json
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.G.B20E2B2A.Up2Date
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\refint\Wpf.Ui.Gallery.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\Wpf.Ui.Gallery.genruntimeconfig.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Gallery\obj\Debug\net8.0-windows10.0.22621.0\ref\Wpf.Ui.Gallery.dll

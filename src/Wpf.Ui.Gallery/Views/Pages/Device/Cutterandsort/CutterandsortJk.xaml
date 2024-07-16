@@ -1,0 +1,294 @@
+<Page x:Class="Wpf.Ui.Gallery.Views.Pages.Device.Cutterandsort.CutterandsortJk"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+      xmlns:local="clr-namespace:Wpf.Ui.Gallery.Views.Pages.Device.Cutterandsort"
+      mc:Ignorable="d" 
+      d:DesignHeight="650" d:DesignWidth="800"
+      Title="CutterandsortJk">
+    <Grid>
+        <Border>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="0.5*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Border  Style="{StaticResource CustomBorder}" BorderBrush="Black" BorderThickness="0.2,0.2,0.1,0.1" CornerRadius="4" Padding="5" Margin="5">
+                        <TextBlock Margin="18,15" Text="切刀控制" FontWeight="Bold" />
+                    </Border>
+                    <!-- Content of the bottom section -->
+                    <Grid Margin="10,50,10,10">
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Border Margin="15,10,0,15 " Padding="10" Grid.Column="0" Grid.Row="0" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀前冷却" VerticalAlignment="Center" />
+                                <ui:ToggleSwitch
+Margin="0,0,5,0"
+ Grid.Column="1"
+ IsEnabled="{Binding ViewModel.IsToggleSwitchEnabled, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=local:CutterandsortJk}, Mode=OneWay}"
+ OffContent="Off"
+ OnContent="On" />
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15 " Padding="10" Grid.Column="1" Grid.Row="0" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀后冷却" VerticalAlignment="Center" />
+                                <ui:ToggleSwitch
+Margin="0,0,5,0"
+ Grid.Column="1"
+ IsEnabled="{Binding ViewModel.IsToggleSwitchEnabled, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=local:CutterandsortJk}, Mode=OneWay}"
+ OffContent="Off"
+ OnContent="On" />
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15 " Padding="10" Grid.Column="2" Grid.Row="0" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="防粘刀气缸" VerticalAlignment="Center" />
+                                <ui:ToggleSwitch
+Margin="0,0,5,0"
+ Grid.Column="1"
+ IsEnabled="{Binding ViewModel.IsToggleSwitchEnabled, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=local:CutterandsortJk}, Mode=OneWay}"
+ OffContent="Off"
+ OnContent="On" />
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15 " Padding="10" Grid.Column="3" Grid.Row="0" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀调整状态" VerticalAlignment="Center" />
+
+                                <TextBlock Grid.Column="1" Text="0" VerticalAlignment="Center" />
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15 " Padding="10" Grid.Column="0" Grid.Row="1" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀调整伺服当前位置[mm]" VerticalAlignment="Center" />
+
+                                <TextBlock Grid.Column="1" Text="1997" VerticalAlignment="Center" />
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15 " Padding="10" Grid.Column="1" Grid.Row="1" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀开合伺服当前位置[°]" VerticalAlignment="Center" />
+
+                                <TextBlock Grid.Column="1" Text="0" VerticalAlignment="Center" />
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15 " Padding="10" Grid.Column="2" Grid.Row="1" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀升降位置[mm]" VerticalAlignment="Center" />
+                                <ui:TextBox Grid.Column="1" Width="50"  PlaceholderText="0.2"/>
+                            </Grid>
+                        </Border>
+
+
+
+
+                        <Border Margin="15,10,0,15 " Padding="10" Grid.Column="3" Grid.Row="1" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀上移" VerticalAlignment="Center" />
+                                <ui:ToggleSwitch
+Margin="0,0,5,0"
+ Grid.Column="1"
+ IsEnabled="{Binding ViewModel.IsToggleSwitchEnabled, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=local:CutterandsortJk}, Mode=OneWay}"
+ OffContent="Off"
+ OnContent="On" />
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15 " Padding="10" Grid.Column="0" Grid.Row="2" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀下移" VerticalAlignment="Center" />
+                                <ui:ToggleSwitch
+Margin="0,0,5,0"
+ Grid.Column="1"
+ IsEnabled="{Binding ViewModel.IsToggleSwitchEnabled, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=local:CutterandsortJk}, Mode=OneWay}"
+ OffContent="Off"
+ OnContent="On" />
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15" Padding="10" Grid.Column="1" Grid.Row="2" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀停止" VerticalAlignment="Center" />
+                                <ui:Button Grid.Column="1" Margin="0,0,10,0" Appearance="Primary"  Content="点动"/>
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15" Padding="10" Grid.Column="2" Grid.Row="2" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀步进一次" VerticalAlignment="Center" />
+                                <ui:Button Grid.Column="1" Margin="0,0,10,0" Appearance="Primary"  Content="点动"/>
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15" Padding="10" Grid.Column="3" Grid.Row="2" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀点动上下" VerticalAlignment="Center" />
+                                <ui:Button Grid.Column="1" Margin="0,0,10,0" Appearance="Primary"  Content="上移"/>
+                                <ui:Button Grid.Column="2"  Appearance="Primary"  Content="下移"/>
+                            </Grid>
+                        </Border>
+
+
+                        <Border Margin="15,10,0,15" Padding="10" Grid.Column="0" Grid.Row="3" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀点动前进" VerticalAlignment="Center" />
+                                <ui:Button Grid.Column="1" Margin="0,0,10,0" Appearance="Primary"  Content="前进"/>
+                                <ui:Button Grid.Column="2"  Appearance="Primary"  Content="后退"/>
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15" Padding="10" Grid.Column="1" Grid.Row="3" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀回原点" VerticalAlignment="Center" />
+                                <ui:Button Grid.Column="1" Margin="0,0,10,0" Appearance="Primary"  Content="置位"/>
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15" Padding="10" Grid.Column="2" Grid.Row="3" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="切刀调整原点设定" VerticalAlignment="Center" />
+                                <ui:Button Grid.Column="1" Margin="0,0,10,0" Appearance="Primary"  Content="3s点动"/>
+                            </Grid>
+                        </Border>
+                       
+                    </Grid>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Border  Style="{StaticResource CustomBorder}" BorderBrush="Black" BorderThickness="0.2,0.2,0.1,0.1" CornerRadius="4" Padding="5" Margin="5">
+                        <TextBlock Margin="18,15" Text="选别控制" FontWeight="Bold" />
+                    </Border>
+                    <!-- Content of the bottom section -->
+                    <Grid Margin="10,50,10,10">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="80" />
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                        <Border Margin="15,10,0,15 " Padding="10" Grid.Column="0" Grid.Row="0" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="选别停止气缸" VerticalAlignment="Center" />
+                                <ui:ToggleSwitch
+Margin="0,0,5,0"
+ Grid.Column="1"
+ IsEnabled="{Binding ViewModel.IsToggleSwitchEnabled, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=local:CutterandsortJk}, Mode=OneWay}"
+ OffContent="Off"
+ OnContent="On" />
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15 " Padding="10" Grid.Column="1" Grid.Row="0" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="空袋排出皮带" VerticalAlignment="Center" />
+                                <ui:ToggleSwitch
+Margin="0,0,5,0"
+ Grid.Column="1"
+ IsEnabled="{Binding ViewModel.IsToggleSwitchEnabled, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=local:CutterandsortJk}, Mode=OneWay}"
+ OffContent="Off"
+ OnContent="On" />
+                            </Grid>
+                        </Border>
+                        <Border Margin="15,10,0,15 " Padding="10" Grid.Column="2" Grid.Row="0" Style="{StaticResource CustomBorder}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="空袋选别气缸" VerticalAlignment="Center" />
+                                <ui:ToggleSwitch
+Margin="0,0,5,0"
+ Grid.Column="1"
+ IsEnabled="{Binding ViewModel.IsToggleSwitchEnabled, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=local:CutterandsortJk}, Mode=OneWay}"
+ OffContent="Off"
+ OnContent="On" />
+                            </Grid>
+                        </Border>
+
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Border>
+    </Grid>
+</Page>

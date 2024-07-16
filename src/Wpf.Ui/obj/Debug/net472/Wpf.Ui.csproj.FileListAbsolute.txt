@@ -1,0 +1,462 @@
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\x86\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\x64\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\arm64\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\libSkiaSharp.dylib
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\x86\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\x64\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\arm64\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\libHarfBuzzSharp.dylib
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - Fluent System Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - Microsoft.Ui.Xaml.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - Segoe Fluent Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - VirtualizingWrapPanel.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - Windows Presentation Foundation.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\Wpf.Ui.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\Wpf.Ui.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\Wpf.Ui.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\HarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveCharts.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveCharts.Wpf.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveChartsCore.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveChartsCore.SkiaSharpView.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\Newtonsoft.Json.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\SkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\SkiaSharp.HarfBuzz.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\SkiaSharp.Views.Desktop.Common.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\SkiaSharp.Views.WPF.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Buffers.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Drawing.Common.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Memory.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.csproj.AssemblyReference.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\AccessText\AccessText.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ContextMenu\ContextMenu.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ContextMenu\ContextMenuLoader.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Frame\Frame.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ItemsControl\ItemsControl.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Label\Label.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Page\Page.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ProgressBar\ProgressBar.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\RadioButton\RadioButton.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Separator\Separator.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Slider\Slider.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\StatusBar\StatusBar.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TabControl\TabControl.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TextBlock\TextBlock.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ToggleButton\ToggleButton.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ToolTip\ToolTip.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Accent.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\DefaultContextMenu.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\DefaultFocusVisualStyle.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\DefaultTextBoxScrollViewerStyle.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Fonts.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Palette.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\StaticColors.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\Dark.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\HC1.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\HC2.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\HCBlack.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\HCWhite.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\Light.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Typography.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Variables.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Wpf.Ui.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ContextMenu\ContextMenuLoader.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Menu\MenuLoader.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui_MarkupCompile.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui_MarkupCompile.lref
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Anchor\Anchor.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\AutoSuggestBox\AutoSuggestBox.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Badge\Badge.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\BreadcrumbBar\BreadcrumbBar.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Button\Button.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CalendarDatePicker\CalendarDatePicker.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Calendar\Calendar.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CardAction\CardAction.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CardColor\CardColor.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CardControl\CardControl.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CardExpander\CardExpander.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Card\Card.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CheckBox\CheckBox.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ColorPicker\ColorPicker.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ComboBox\ComboBox.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ContentDialog\ContentDialog.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DataGrid\DataGrid.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DatePicker\DatePicker.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DropDownButton\DropDownButton.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DynamicScrollBar\DynamicScrollBar.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DynamicScrollViewer\DynamicScrollViewer.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Expander\Expander.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\FluentWindow\FluentWindow.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Flyout\Flyout.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\GridView\GridViewColumnHeader.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\GridView\GridViewHeaderRowIndicator.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\HyperlinkButton\HyperlinkButton.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Image\Image.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\InfoBadge\InfoBadge.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\InfoBar\InfoBar.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ListBox\ListBox.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ListBox\ListBoxItem.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ListView\ListView.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ListView\ListViewItem.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\LoadingScreen\LoadingScreen.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Menu\Menu.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Menu\MenuItem.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Menu\MenuLoader.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\MessageBox\MessageBox.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationLeftFluent.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationView.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewBasePaneButtonStyle.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewBottom.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewBreadcrumbItem.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewCompact.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewConstants.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewContentPresenter.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewItemDefaultStyle.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewItemHeader.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewItemSeparator.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewLeftMinimalCompact.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewTop.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NumberBox\NumberBox.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\PasswordBox\PasswordBox.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ProgressRing\ProgressRing.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\RatingControl\RatingControl.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\RichTextBox\RichTextBox.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ScrollBar\ScrollBar.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ScrollViewer\ScrollViewer.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Snackbar\Snackbar.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\SplitButton\SplitButton.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TextBox\TextBox.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ThumbRate\ThumbRate.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TimePicker\TimePicker.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TitleBar\TitleBar.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ToggleSwitch\ToggleSwitch.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ToolBar\ToolBar.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TreeGrid\TreeGrid.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TreeView\TreeView.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TreeView\TreeViewItem.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\VirtualizingGridView\VirtualizingGridView.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\VirtualizingItemsControl\VirtualizingItemsControl.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\VirtualizingWrapPanel\VirtualizingWrapPanel.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Window\Window.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.g.resources
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.AssemblyInfoInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.AssemblyInfo.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.csproj.CoreCompileInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.sourcelink.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.csproj.Up2Date
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\x86\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\x64\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\arm64\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\libSkiaSharp.dylib
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\x86\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\x64\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\arm64\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\libHarfBuzzSharp.dylib
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - Fluent System Icons.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - Microsoft.Ui.Xaml.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - Segoe Fluent Icons.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - VirtualizingWrapPanel.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - Windows Presentation Foundation.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\Wpf.Ui.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\Wpf.Ui.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\Wpf.Ui.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\HarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveCharts.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveCharts.Wpf.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveChartsCore.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveChartsCore.SkiaSharpView.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\Newtonsoft.Json.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\SkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\SkiaSharp.HarfBuzz.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\SkiaSharp.Views.Desktop.Common.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\SkiaSharp.Views.WPF.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Buffers.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Drawing.Common.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Memory.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.csproj.AssemblyReference.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\AccessText\AccessText.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ContextMenu\ContextMenu.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ContextMenu\ContextMenuLoader.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Frame\Frame.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ItemsControl\ItemsControl.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Label\Label.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Page\Page.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ProgressBar\ProgressBar.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\RadioButton\RadioButton.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Separator\Separator.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Slider\Slider.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\StatusBar\StatusBar.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TabControl\TabControl.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TextBlock\TextBlock.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ToggleButton\ToggleButton.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ToolTip\ToolTip.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Accent.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\DefaultContextMenu.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\DefaultFocusVisualStyle.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\DefaultTextBoxScrollViewerStyle.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Fonts.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Palette.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\StaticColors.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\Dark.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\HC1.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\HC2.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\HCBlack.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\HCWhite.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\Light.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Typography.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Variables.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Wpf.Ui.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ContextMenu\ContextMenuLoader.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Menu\MenuLoader.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui_MarkupCompile.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui_MarkupCompile.lref
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Anchor\Anchor.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\AutoSuggestBox\AutoSuggestBox.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Badge\Badge.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\BreadcrumbBar\BreadcrumbBar.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Button\Button.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CalendarDatePicker\CalendarDatePicker.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Calendar\Calendar.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CardAction\CardAction.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CardColor\CardColor.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CardControl\CardControl.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CardExpander\CardExpander.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Card\Card.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CheckBox\CheckBox.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ColorPicker\ColorPicker.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ComboBox\ComboBox.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ContentDialog\ContentDialog.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DataGrid\DataGrid.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DatePicker\DatePicker.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DropDownButton\DropDownButton.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DynamicScrollBar\DynamicScrollBar.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DynamicScrollViewer\DynamicScrollViewer.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Expander\Expander.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\FluentWindow\FluentWindow.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Flyout\Flyout.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\GridView\GridViewColumnHeader.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\GridView\GridViewHeaderRowIndicator.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\HyperlinkButton\HyperlinkButton.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Image\Image.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\InfoBadge\InfoBadge.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\InfoBar\InfoBar.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ListBox\ListBox.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ListBox\ListBoxItem.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ListView\ListView.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ListView\ListViewItem.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\LoadingScreen\LoadingScreen.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Menu\Menu.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Menu\MenuItem.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Menu\MenuLoader.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\MessageBox\MessageBox.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationLeftFluent.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationView.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewBasePaneButtonStyle.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewBottom.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewBreadcrumbItem.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewCompact.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewConstants.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewContentPresenter.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewItemDefaultStyle.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewItemHeader.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewItemSeparator.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewLeftMinimalCompact.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewTop.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NumberBox\NumberBox.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\PasswordBox\PasswordBox.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ProgressRing\ProgressRing.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\RatingControl\RatingControl.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\RichTextBox\RichTextBox.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ScrollBar\ScrollBar.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ScrollViewer\ScrollViewer.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Snackbar\Snackbar.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\SplitButton\SplitButton.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TextBox\TextBox.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ThumbRate\ThumbRate.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TimePicker\TimePicker.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TitleBar\TitleBar.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ToggleSwitch\ToggleSwitch.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ToolBar\ToolBar.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TreeGrid\TreeGrid.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TreeView\TreeView.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TreeView\TreeViewItem.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\VirtualizingGridView\VirtualizingGridView.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\VirtualizingItemsControl\VirtualizingItemsControl.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\VirtualizingWrapPanel\VirtualizingWrapPanel.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Window\Window.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.g.resources
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.AssemblyInfoInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.AssemblyInfo.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.csproj.CoreCompileInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.sourcelink.json
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.csproj.Up2Date
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\x86\libSkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\x64\libSkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\arm64\libSkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\libSkiaSharp.dylib
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\x86\libHarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\x64\libHarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\arm64\libHarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\libHarfBuzzSharp.dylib
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - Fluent System Icons.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - Microsoft.Ui.Xaml.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - Segoe Fluent Icons.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - VirtualizingWrapPanel.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\License - Windows Presentation Foundation.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\Wpf.Ui.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\Wpf.Ui.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\Wpf.Ui.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\HarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveCharts.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveCharts.Wpf.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveChartsCore.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveChartsCore.SkiaSharpView.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\Newtonsoft.Json.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\SkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\SkiaSharp.HarfBuzz.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\SkiaSharp.Views.Desktop.Common.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\SkiaSharp.Views.WPF.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Buffers.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Drawing.Common.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Memory.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.csproj.AssemblyReference.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\AccessText\AccessText.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ContextMenu\ContextMenu.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ContextMenu\ContextMenuLoader.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Frame\Frame.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ItemsControl\ItemsControl.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Label\Label.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Page\Page.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ProgressBar\ProgressBar.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\RadioButton\RadioButton.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Separator\Separator.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Slider\Slider.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\StatusBar\StatusBar.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TabControl\TabControl.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TextBlock\TextBlock.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ToggleButton\ToggleButton.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ToolTip\ToolTip.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Accent.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\DefaultContextMenu.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\DefaultFocusVisualStyle.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\DefaultTextBoxScrollViewerStyle.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Fonts.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Palette.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\StaticColors.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\Dark.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\HC1.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\HC2.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\HCBlack.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\HCWhite.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Theme\Light.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Typography.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Variables.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Resources\Wpf.Ui.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ContextMenu\ContextMenuLoader.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Menu\MenuLoader.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui_MarkupCompile.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui_MarkupCompile.lref
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Anchor\Anchor.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\AutoSuggestBox\AutoSuggestBox.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Badge\Badge.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\BreadcrumbBar\BreadcrumbBar.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Button\Button.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CalendarDatePicker\CalendarDatePicker.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Calendar\Calendar.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CardAction\CardAction.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CardColor\CardColor.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CardControl\CardControl.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CardExpander\CardExpander.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Card\Card.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\CheckBox\CheckBox.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ColorPicker\ColorPicker.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ComboBox\ComboBox.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ContentDialog\ContentDialog.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DataGrid\DataGrid.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DatePicker\DatePicker.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DropDownButton\DropDownButton.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DynamicScrollBar\DynamicScrollBar.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\DynamicScrollViewer\DynamicScrollViewer.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Expander\Expander.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\FluentWindow\FluentWindow.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Flyout\Flyout.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\GridView\GridViewColumnHeader.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\GridView\GridViewHeaderRowIndicator.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\HyperlinkButton\HyperlinkButton.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Image\Image.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\InfoBadge\InfoBadge.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\InfoBar\InfoBar.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ListBox\ListBox.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ListBox\ListBoxItem.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ListView\ListView.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ListView\ListViewItem.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\LoadingScreen\LoadingScreen.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Menu\Menu.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Menu\MenuItem.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Menu\MenuLoader.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\MessageBox\MessageBox.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationLeftFluent.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationView.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewBasePaneButtonStyle.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewBottom.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewBreadcrumbItem.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewCompact.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewConstants.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewContentPresenter.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewItemDefaultStyle.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewItemHeader.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewItemSeparator.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewLeftMinimalCompact.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NavigationView\NavigationViewTop.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\NumberBox\NumberBox.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\PasswordBox\PasswordBox.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ProgressRing\ProgressRing.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\RatingControl\RatingControl.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\RichTextBox\RichTextBox.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ScrollBar\ScrollBar.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ScrollViewer\ScrollViewer.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Snackbar\Snackbar.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\SplitButton\SplitButton.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TextBox\TextBox.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ThumbRate\ThumbRate.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TimePicker\TimePicker.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TitleBar\TitleBar.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ToggleSwitch\ToggleSwitch.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\ToolBar\ToolBar.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TreeGrid\TreeGrid.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TreeView\TreeView.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\TreeView\TreeViewItem.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\VirtualizingGridView\VirtualizingGridView.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\VirtualizingItemsControl\VirtualizingItemsControl.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\VirtualizingWrapPanel\VirtualizingWrapPanel.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Controls\Window\Window.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.g.resources
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.AssemblyInfoInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.AssemblyInfo.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.csproj.CoreCompileInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.sourcelink.json
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.csproj.Up2Date
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui\obj\Debug\net472\Wpf.Ui.pdb

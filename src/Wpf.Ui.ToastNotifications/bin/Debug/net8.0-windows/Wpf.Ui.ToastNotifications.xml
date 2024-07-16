@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Wpf.Ui.ToastNotifications</name>
+    </assembly>
+    <members>
+        <member name="T:Wpf.Ui.ToastNotifications.Toast">
+            <summary>
+            Represents a toast notification.
+            </summary>
+        </member>
+        <member name="M:Wpf.Ui.ToastNotifications.Toast.Show">
+            <summary>
+            Displays the toast notification.
+            </summary>
+        </member>
+    </members>
+</doc>

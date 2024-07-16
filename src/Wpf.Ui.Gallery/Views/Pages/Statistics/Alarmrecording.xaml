@@ -1,0 +1,99 @@
+<Page
+    x:Class="Wpf.Ui.Gallery.Views.Pages.Statistics.Alarmrecording"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:controls="clr-namespace:Wpf.Ui.Gallery.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Wpf.Ui.Gallery.Views.Pages.Statistics"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:system="clr-namespace:System;assembly=System.Runtime"
+    xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+    Title="DataGridPage"
+    controls:PageControlDocumentation.DocumentationType="{x:Type ui:DataGrid}"
+    d:DataContext="{d:DesignInstance local:Alarmrecording,
+                                     IsDesignTimeCreatable=False}"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
+    mc:Ignorable="d">
+    <Grid Margin="0,0,0,24">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80" />
+            <RowDefinition Height="70" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Border Style="{StaticResource BaseBorder}" Margin="10,10"
+                >
+            <Grid >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="*"/>
+
+                </Grid.ColumnDefinitions>
+                <Grid >
+                    <TextBlock Margin="0,10" Grid.Column="0"  Text="报警类型" FontWeight="Heavy" FontSize="20" />
+                    <ComboBox
+                        MinWidth="150"
+                        HorizontalAlignment="Right"
+                        SelectedIndex="0">
+                        <ComboBoxItem Content="Blue" />
+                        <ComboBoxItem Content="Green" />
+                        <ComboBoxItem Content="Red" />
+                        <ComboBoxItem Content="Yellow" />
+                    </ComboBox>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <TextBlock Margin="70,10" Grid.Column="0"  Text="时间范围" FontWeight="Heavy" FontSize="20" />
+                    <Grid HorizontalAlignment="Right" Margin="0,0,70,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <ui:CalendarDatePicker
+                             x:Name="CalendarDatePicker"
+                             Grid.Column="0"
+                             Content="Pick a date"
+                             Date="{x:Static system:DateTime.Now}"
+                             IsTodayHighlighted="True" />
+                        <ui:TextBlock
+                            Grid.Column="1"
+                            Margin="8,0,0,0"
+                            VerticalAlignment="Center"
+                            Text="{Binding ElementName=CalendarDatePicker, Path=Date}" />
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+
+                    </Grid.ColumnDefinitions>
+                    <ui:Button Grid.Column="0"  Appearance="Primary"  Content="筛选"/>
+                    <ui:Button Grid.Column="1"  Appearance="Primary"  Content="重置"/>
+                    <ui:Button Grid.Column="2"  Appearance="Primary"  Content="生成报表"/>
+                </Grid>
+
+            </Grid>
+        </Border>
+
+        <Border 
+            Margin="10,10"
+            Grid.Row="1">
+            <Grid>
+                <TextBlock Grid.Column="0" Margin="0,5"  Text="报警记录" VerticalAlignment="Bottom" FontWeight="Heavy" FontSize="20" />
+            </Grid>
+
+
+        </Border>
+        <Border
+            Grid.Row="2"
+        Margin="0,0,0,0"
+      >
+            <ui:DataGrid Height="600"   />
+        </Border>
+    </Grid>
+
+
+</Page>

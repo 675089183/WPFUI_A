@@ -1,0 +1,438 @@
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Fluent System Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Microsoft.Ui.Xaml.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Segoe Fluent Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - VirtualizingWrapPanel.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Windows Presentation Foundation.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\x86\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\x64\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\arm64\libSkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\libSkiaSharp.dylib
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\x86\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\x64\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\arm64\libHarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\libHarfBuzzSharp.dylib
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Fira Code.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\HarfBuzzSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveCharts.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveCharts.Wpf.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveChartsCore.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveChartsCore.SkiaSharpView.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Newtonsoft.Json.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\SkiaSharp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\SkiaSharp.HarfBuzz.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\SkiaSharp.Views.Desktop.Common.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\SkiaSharp.Views.WPF.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Buffers.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Drawing.Common.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Memory.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Numerics.Vectors.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.CompilerServices.Unsafe.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ValueTuple.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Microsoft.Win32.Primitives.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\netstandard.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.AppContext.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Collections.Concurrent.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Collections.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Collections.NonGeneric.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Collections.Specialized.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ComponentModel.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ComponentModel.EventBasedAsync.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ComponentModel.Primitives.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ComponentModel.TypeConverter.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Console.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Data.Common.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Contracts.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Debug.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.FileVersionInfo.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Process.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.StackTrace.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.TextWriterTraceListener.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Tools.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.TraceSource.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Tracing.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Drawing.Primitives.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Dynamic.Runtime.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Globalization.Calendars.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Globalization.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Globalization.Extensions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.Compression.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.Compression.ZipFile.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.FileSystem.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.FileSystem.DriveInfo.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.FileSystem.Primitives.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.FileSystem.Watcher.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.IsolatedStorage.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.MemoryMappedFiles.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.Pipes.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.UnmanagedMemoryStream.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Linq.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Linq.Expressions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Linq.Parallel.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Linq.Queryable.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Http.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.NameResolution.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.NetworkInformation.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Ping.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Primitives.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Requests.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Security.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Sockets.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.WebHeaderCollection.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.WebSockets.Client.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.WebSockets.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ObjectModel.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Reflection.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Reflection.Extensions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Reflection.Primitives.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Resources.Reader.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Resources.ResourceManager.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Resources.Writer.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.CompilerServices.VisualC.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Extensions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Handles.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.InteropServices.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Numerics.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Serialization.Formatters.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Serialization.Json.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Serialization.Primitives.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Serialization.Xml.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Claims.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.Algorithms.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.Csp.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.Encoding.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.Primitives.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.X509Certificates.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Principal.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.SecureString.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Text.Encoding.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Text.Encoding.Extensions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Text.RegularExpressions.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Overlapped.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Tasks.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Tasks.Parallel.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Thread.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.ThreadPool.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Timer.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.ReaderWriter.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XDocument.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XmlDocument.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XmlSerializer.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XPath.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XPath.XDocument.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.csproj.AssemblyReference.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\SyntaxHighlight.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\GeneratedInternalTypeHelper.g.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight_MarkupCompile.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight_MarkupCompile.lref
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Controls\CodeBlock.baml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.g.resources
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.AssemblyInfoInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.AssemblyInfo.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.csproj.CoreCompileInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.sourcelink.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.S.418BD40C.Up2Date
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Fluent System Icons.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Microsoft.Ui.Xaml.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Segoe Fluent Icons.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - VirtualizingWrapPanel.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Windows Presentation Foundation.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\x86\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\x64\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\arm64\libSkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\libSkiaSharp.dylib
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\x86\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\x64\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\arm64\libHarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\libHarfBuzzSharp.dylib
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Fira Code.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.SyntaxHighlight.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\HarfBuzzSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveCharts.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveCharts.Wpf.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveChartsCore.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveChartsCore.SkiaSharpView.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Newtonsoft.Json.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\SkiaSharp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\SkiaSharp.HarfBuzz.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\SkiaSharp.Views.Desktop.Common.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\SkiaSharp.Views.WPF.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Buffers.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Drawing.Common.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Memory.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Numerics.Vectors.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.CompilerServices.Unsafe.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ValueTuple.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Microsoft.Win32.Primitives.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\netstandard.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.AppContext.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Collections.Concurrent.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Collections.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Collections.NonGeneric.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Collections.Specialized.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ComponentModel.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ComponentModel.EventBasedAsync.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ComponentModel.Primitives.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ComponentModel.TypeConverter.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Console.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Data.Common.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Contracts.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Debug.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.FileVersionInfo.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Process.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.StackTrace.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.TextWriterTraceListener.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Tools.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.TraceSource.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Tracing.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Drawing.Primitives.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Dynamic.Runtime.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Globalization.Calendars.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Globalization.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Globalization.Extensions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.Compression.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.Compression.ZipFile.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.FileSystem.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.FileSystem.DriveInfo.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.FileSystem.Primitives.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.FileSystem.Watcher.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.IsolatedStorage.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.MemoryMappedFiles.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.Pipes.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.UnmanagedMemoryStream.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Linq.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Linq.Expressions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Linq.Parallel.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Linq.Queryable.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Http.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.NameResolution.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.NetworkInformation.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Ping.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Primitives.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Requests.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Security.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Sockets.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.WebHeaderCollection.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.WebSockets.Client.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.WebSockets.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ObjectModel.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Reflection.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Reflection.Extensions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Reflection.Primitives.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Resources.Reader.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Resources.ResourceManager.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Resources.Writer.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.CompilerServices.VisualC.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Extensions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Handles.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.InteropServices.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Numerics.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Serialization.Formatters.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Serialization.Json.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Serialization.Primitives.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Serialization.Xml.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Claims.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.Algorithms.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.Csp.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.Encoding.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.Primitives.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.X509Certificates.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Principal.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.SecureString.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Text.Encoding.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Text.Encoding.Extensions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Text.RegularExpressions.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Overlapped.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Tasks.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Tasks.Parallel.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Thread.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.ThreadPool.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Timer.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.ReaderWriter.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XDocument.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XmlDocument.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XmlSerializer.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XPath.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XPath.XDocument.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.csproj.AssemblyReference.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\SyntaxHighlight.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\GeneratedInternalTypeHelper.g.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight_MarkupCompile.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight_MarkupCompile.lref
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Controls\CodeBlock.baml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.g.resources
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.AssemblyInfoInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.AssemblyInfo.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.csproj.CoreCompileInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.sourcelink.json
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.S.418BD40C.Up2Date
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Fluent System Icons.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Microsoft.Ui.Xaml.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Segoe Fluent Icons.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - VirtualizingWrapPanel.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Windows Presentation Foundation.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\x86\libSkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\x64\libSkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\arm64\libSkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\libSkiaSharp.dylib
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\x86\libHarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\x64\libHarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\arm64\libHarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\libHarfBuzzSharp.dylib
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\License - Fira Code.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.SyntaxHighlight.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\HarfBuzzSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveCharts.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveCharts.Wpf.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveChartsCore.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveChartsCore.SkiaSharpView.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Newtonsoft.Json.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\SkiaSharp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\SkiaSharp.HarfBuzz.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\SkiaSharp.Views.Desktop.Common.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\SkiaSharp.Views.WPF.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Buffers.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Drawing.Common.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Memory.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Numerics.Vectors.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.CompilerServices.Unsafe.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ValueTuple.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Microsoft.Win32.Primitives.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\netstandard.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.AppContext.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Collections.Concurrent.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Collections.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Collections.NonGeneric.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Collections.Specialized.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ComponentModel.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ComponentModel.EventBasedAsync.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ComponentModel.Primitives.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ComponentModel.TypeConverter.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Console.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Data.Common.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Contracts.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Debug.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.FileVersionInfo.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Process.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.StackTrace.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.TextWriterTraceListener.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Tools.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.TraceSource.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Diagnostics.Tracing.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Drawing.Primitives.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Dynamic.Runtime.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Globalization.Calendars.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Globalization.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Globalization.Extensions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.Compression.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.Compression.ZipFile.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.FileSystem.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.FileSystem.DriveInfo.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.FileSystem.Primitives.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.FileSystem.Watcher.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.IsolatedStorage.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.MemoryMappedFiles.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.Pipes.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.IO.UnmanagedMemoryStream.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Linq.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Linq.Expressions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Linq.Parallel.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Linq.Queryable.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Http.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.NameResolution.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.NetworkInformation.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Ping.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Primitives.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Requests.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Security.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.Sockets.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.WebHeaderCollection.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.WebSockets.Client.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Net.WebSockets.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.ObjectModel.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Reflection.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Reflection.Extensions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Reflection.Primitives.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Resources.Reader.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Resources.ResourceManager.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Resources.Writer.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.CompilerServices.VisualC.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Extensions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Handles.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.InteropServices.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Numerics.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Serialization.Formatters.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Serialization.Json.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Serialization.Primitives.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Runtime.Serialization.Xml.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Claims.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.Algorithms.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.Csp.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.Encoding.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.Primitives.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Cryptography.X509Certificates.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.Principal.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Security.SecureString.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Text.Encoding.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Text.Encoding.Extensions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Text.RegularExpressions.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Overlapped.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Tasks.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Tasks.Parallel.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Thread.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.ThreadPool.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Threading.Timer.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.ReaderWriter.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XDocument.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XmlDocument.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XmlSerializer.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XPath.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\System.Xml.XPath.XDocument.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\bin\Debug\net462\Wpf.Ui.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.csproj.AssemblyReference.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\SyntaxHighlight.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\GeneratedInternalTypeHelper.g.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight_MarkupCompile.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight_MarkupCompile.lref
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Controls\CodeBlock.baml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.g.resources
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.AssemblyInfoInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.AssemblyInfo.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.csproj.CoreCompileInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.sourcelink.json
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.S.418BD40C.Up2Date
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.SyntaxHighlight\obj\Debug\net462\Wpf.Ui.SyntaxHighlight.pdb

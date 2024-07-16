@@ -1,0 +1,86 @@
+﻿<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\Wpf.Ui.Blank\1033\Wpf.Ui.Blank</RelativePathOnDisk>
+    <TemplateFileName>Wpf.Ui.Blank.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>WPF UI - Blank project</Name>
+        <Description>Empty WPF UI project with generic .NET host, dependency injection and initialized resources.</Description>
+        <ProjectType>CSharp</ProjectType>
+        <ProjectSubType>
+        </ProjectSubType>
+        <SortOrder>1000</SortOrder>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>UiDesktopApp</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <LocationField>Enabled</LocationField>
+        <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+        <CreateInPlace>true</CreateInPlace>
+        <LanguageTag>csharp</LanguageTag>
+        <LanguageTag>XAML</LanguageTag>
+        <PlatformTag>Windows</PlatformTag>
+        <ProjectTypeTag>Desktop</ProjectTypeTag>
+        <ProjectTypeTag>WPF UI</ProjectTypeTag>
+        <ProjectTypeTag>MVVM</ProjectTypeTag>
+        <Icon>__TemplateIcon.png</Icon>
+        <PreviewImage>__PreviewImage.png</PreviewImage>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\Wpf.Ui.Compact\1033\Wpf.Ui.Compact</RelativePathOnDisk>
+    <TemplateFileName>Wpf.Ui.Compact.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>WPF UI - Compact Navigation</Name>
+        <Description>Template for creating WPF UI project with MVVM pattern, Dependency Injection, Compact navigation and Mica background.</Description>
+        <ProjectType>CSharp</ProjectType>
+        <ProjectSubType>
+        </ProjectSubType>
+        <SortOrder>1000</SortOrder>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>UiDesktopApp</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <LocationField>Enabled</LocationField>
+        <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+        <CreateInPlace>true</CreateInPlace>
+        <LanguageTag>csharp</LanguageTag>
+        <LanguageTag>XAML</LanguageTag>
+        <PlatformTag>Windows</PlatformTag>
+        <ProjectTypeTag>Desktop</ProjectTypeTag>
+        <ProjectTypeTag>WPF UI</ProjectTypeTag>
+        <ProjectTypeTag>MVVM</ProjectTypeTag>
+        <Icon>__TemplateIcon.png</Icon>
+        <PreviewImage>__PreviewImage.png</PreviewImage>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\Wpf.Ui.Fluent\1033\Wpf.Ui.Fluent</RelativePathOnDisk>
+    <TemplateFileName>Wpf.Ui.Fluent.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>WPF UI - Fluent Navigation</Name>
+        <Description>Template for creating WPF UI project with MVVM pattern, Dependency Injection, Mica background and navigation similar to that used in the Microsoft Store.</Description>
+        <ProjectType>CSharp</ProjectType>
+        <ProjectSubType>
+        </ProjectSubType>
+        <SortOrder>1000</SortOrder>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>UiDesktopApp</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <LocationField>Enabled</LocationField>
+        <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+        <CreateInPlace>true</CreateInPlace>
+        <LanguageTag>csharp</LanguageTag>
+        <LanguageTag>XAML</LanguageTag>
+        <PlatformTag>Windows</PlatformTag>
+        <ProjectTypeTag>Desktop</ProjectTypeTag>
+        <ProjectTypeTag>WPF UI</ProjectTypeTag>
+        <ProjectTypeTag>MVVM</ProjectTypeTag>
+        <Icon>__TemplateIcon.png</Icon>
+        <PreviewImage>__PreviewImage.png</PreviewImage>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>

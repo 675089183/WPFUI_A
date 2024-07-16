@@ -1,0 +1,32 @@
+<UserControl x:Class="Wpf.Ui.Gallery.Controls.IOUS"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Wpf.Ui.Gallery.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="65" d:DesignWidth="200">
+    <Grid>
+        <Border Margin="10,0,0,10" Height="60" Padding="2" Grid.Column="1" Grid.Row="0" Style="{StaticResource CustomBorder}">
+            <Grid>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1.7*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height ="0.5*" />
+                        </Grid.RowDefinitions>
+                        <TextBlock Grid.Row="0" Text="{Binding Text1}" FontSize="16" FontWeight="Normal" Margin="0,0,0,5"/>
+                        <TextBlock Grid.Row="1" Text="{Binding Text2}" Background="#1379FF" Foreground="#FAFCFF" Padding="1" HorizontalAlignment="Left" FontSize="8"/>
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <local:IOLight IsLightOn="{Binding IsIndicatorOn}" Width="30" Height="30" Margin="10,-30,10,-30"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

@@ -1,0 +1,8 @@
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Blank\bin\Debug\ProjectTemplates\CSharp\Wpf.Ui.Blank\1033\Wpf.Ui.Blank.zip
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Blank\obj\Debug\Wpf.Ui.Extension.Template.Blank.csproj.AssemblyReference.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Blank\obj\Debug\_EmptyResource.resources
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Blank\obj\Debug\Wpf.Ui.Extension.Template.Blank.csproj.GenerateResource.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Blank\obj\Debug\Wpf.Ui.Extension.Template.Blank.csproj.CoreCompileInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Blank\obj\Debug\CSharp\Wpf.Ui.Blank\1033\Wpf.Ui.Blank.zip
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Blank\obj\Debug\Wpf.Ui.Extension.Template.Blank.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Blank\obj\Debug\Wpf.Ui.Extension.Template.Blank.pdb

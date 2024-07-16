@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FyKO4g6v7/WrRfTWP24ayIRHkPYM7nAvjm3ugAZkMJ26UU2+4QVb+IVWVL7PwmhOO1bBe22PBAepuxFdwZTn3g==",
+  "success": false,
+  "projectFilePath": "D:\\WPFProject\\demo\\wpfui-main\\wpfui-main\\src\\Wpf.Ui.Extension\\Wpf.Ui.Extension.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1008",
+      "level": "Error",
+      "message": "使用中央包版本管理的项目不应定义 PackageReference 项上的版本，但应定义 PackageVersion 项上的版本: LiveCharts.Wpf。"
+    }
+  ]
+}

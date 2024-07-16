@@ -1,0 +1,96 @@
+<Page x:Class="Wpf.Ui.Gallery.Views.Pages.Device.MDexaple.WKgl"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:controls="clr-namespace:Wpf.Ui.Gallery.Controls"
+      xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+      mc:Ignorable="d" 
+      controls:PageControlDocumentation.DocumentationType="{x:Type ui:NumberBox}"
+    
+      d:DesignHeight="1000" d:DesignWidth="1200"
+      Title="cs">
+
+    <Border  BorderBrush="Black" BorderThickness="1"  Padding="0" Style="{StaticResource CustomBorder}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Border Margin="0,0,0,0" Padding="5" Grid.Row="0" Background="#FAFAFA">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="温控管理" VerticalAlignment="Center" FontSize="20"/>
+                    <TextBlock Text="批量修改设定温度:" VerticalAlignment="Center" FontSize="18" HorizontalAlignment="Right" Margin="10"/>
+                    <ui:Button Grid.Column="1"  Appearance="Primary"  Content="横封"/>
+                    <ui:Button Margin="10,0,10,0" Grid.Column="2"  Appearance="Primary"  Content="纵封"/>
+
+                </Grid>
+            </Border>
+
+            <!-- Top Section -->
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="60" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <Border Margin="0,0,0,0" Padding="10" Grid.Row="0" Background="LightBlue">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                                                     
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                         
+                        </Grid.ColumnDefinitions>
+
+                     
+                        <TextBlock Margin="10 0 10 0" Grid.Row="0" Grid.Column="0" Text="位置" Foreground="#F6FFFC" FontSize="18" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock  Grid.Row="0" Grid.Column="1" Text="实际温度" Foreground="#F6FFFC" FontSize="17" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="2" Text="设定温度" Foreground="#F6FFFC" FontSize="17" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="3" Text="上限" Foreground="#F6FFFC" FontSize="18" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="4" Text="上偏温度" Foreground="#F6FFFC" FontSize="17" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="5" Text="下偏温度" Foreground="#F6FFFC" FontSize="17" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+
+                        <TextBlock Grid.Row="0" Grid.Column="6" Text="MV" Foreground="#F6FFFC" FontSize="18" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="7" Text="允许加热" Foreground="#F6FFFC" FontSize="17" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="8" Text="上偏报警" Foreground="#F6FFFC" FontSize="17" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="9" Text="下偏报警" Foreground="#F6FFFC" FontSize="17" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="10" Text="偏差警告" Foreground="#F6FFFC" FontSize="17" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="11" Text="超温报警" Foreground="#F6FFFC" FontSize="17" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="0" Grid.Column="12" Text="热电偶异常" Foreground="#F6FFFC" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                    </Grid>
+                </Border>
+                <Grid Grid.Row="2" Margin="0,0,0,0">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto">
+                        <ItemsControl ItemsSource="{Binding DataEntries}">
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                    <controls:WKglus />
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+                    </ScrollViewer>
+                </Grid>
+            </Grid>
+
+           
+        </Grid>
+    </Border>
+</Page>

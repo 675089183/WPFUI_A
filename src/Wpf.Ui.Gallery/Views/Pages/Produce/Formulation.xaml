@@ -1,0 +1,97 @@
+<Page
+    x:Class="Wpf.Ui.Gallery.Views.Pages.Produce.Formulation"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:controls="clr-namespace:Wpf.Ui.Gallery.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Wpf.Ui.Gallery.Views.Pages.Produce"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:system="clr-namespace:System;assembly=System.Runtime"
+    xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+    Title="DataGridPage"
+    controls:PageControlDocumentation.DocumentationType="{x:Type ui:DataGrid}"
+    d:DataContext="{d:DesignInstance local:Products,
+                                     IsDesignTimeCreatable=False}"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
+    ui:Design.Background="{DynamicResource ApplicationBackgroundBrush}"
+    ui:Design.Foreground="{DynamicResource TextFillColorPrimaryBrush}"
+    Foreground="{DynamicResource TextFillColorPrimaryBrush}"
+    mc:Ignorable="d">
+    <Page.Resources>
+        <system:String x:Key="PageXamlUrl">https://github.com/lepoco/wpfui/blob/development/src/Wpf.Ui/Resources/Controls/DataGrid.xaml</system:String>
+        <system:String x:Key="PageCsharpUrl">https://github.com/dotnet/wpf/blob/main/src/Microsoft.DotNet.Wpf/src/PresentationFramework/System/Windows/Controls/DataGrid.cs</system:String>
+    </Page.Resources>
+
+
+
+    <Grid Margin="0,0,0,24">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70" />
+            <RowDefinition Height="70" />
+            <RowDefinition Height="Auto"  />
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Margin="10,10"   Style="{StaticResource CustomBorder}">
+            <Grid >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="*"/>
+
+                </Grid.ColumnDefinitions>
+                <TextBlock Margin="0,5" Grid.Column="0"  Text="配方配置与恢复" FontWeight="Heavy" FontSize="20" />
+                <Grid Grid.Column="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+
+                    </Grid.ColumnDefinitions>
+                    <ui:Button Grid.Column="0"  Appearance="Primary"  Content="导入"/>
+                    <ui:Button Grid.Column="1"  Appearance="Primary"  Content="导出"/>
+                </Grid>
+
+            </Grid>
+        </Border>
+
+        <Border 
+            Margin="10,10"
+            Grid.Row="1"
+              Style="{StaticResource CustomBorder}">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="0,5" Text="配方管理" FontWeight="Heavy" FontSize="20" />
+                <Grid Grid.Column="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <ui:Button Grid.Column="0"  Appearance="Primary"  Content="新增配方"/>
+                    <ui:Button Grid.Column="1"  Appearance="Primary"  Content="编辑名称"/>
+                    <ui:Button Grid.Column="2"  Appearance="Primary"  Content="复制配方"/>
+                    <ui:Button Grid.Column="3"  Appearance="Primary"  Content="审核配方"/>
+                    <ui:Button Grid.Column="4"  Appearance="Primary"  Content="查看参数"/>
+                    <ui:Button Grid.Column="5" Background="Red"  Appearance="Primary"  Content="删除配方"/>
+                    <ui:Button Grid.Column="6"  Background="SlateGray" Appearance="Primary"  Content="修复配方"/>
+                </Grid>
+            </Grid>
+        </Border>
+        <Border
+            Grid.Row="2"
+        Margin="0,20,0,0"
+             Style="{StaticResource CustomBorder}"
+      >
+            <ui:DataGrid Height="600"  ItemsSource="{Binding ViewModel.ProductsCollection, Mode=TwoWay}"  />
+        </Border>
+    </Grid>
+
+
+</Page>

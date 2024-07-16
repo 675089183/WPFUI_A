@@ -1,0 +1,45 @@
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\bin\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.deps.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\bin\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\bin\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\bin\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.csproj.AssemblyReference.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.AssemblyInfoInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.AssemblyInfo.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.csproj.CoreCompileInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.sourcelink.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\refint\Wpf.Ui.ToastNotifications.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\ref\Wpf.Ui.ToastNotifications.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\bin\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.deps.json
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\bin\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\bin\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\bin\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.csproj.AssemblyReference.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.AssemblyInfoInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.AssemblyInfo.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.csproj.CoreCompileInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.sourcelink.json
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\refint\Wpf.Ui.ToastNotifications.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\ref\Wpf.Ui.ToastNotifications.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\bin\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.deps.json
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\bin\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\bin\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\bin\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.csproj.AssemblyReference.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.AssemblyInfoInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.AssemblyInfo.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.csproj.CoreCompileInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.sourcelink.json
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\refint\Wpf.Ui.ToastNotifications.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\Wpf.Ui.ToastNotifications.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.ToastNotifications\obj\Debug\net6.0-windows\ref\Wpf.Ui.ToastNotifications.dll

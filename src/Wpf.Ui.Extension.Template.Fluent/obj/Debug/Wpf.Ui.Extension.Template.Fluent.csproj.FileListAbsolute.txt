@@ -1,0 +1,8 @@
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Fluent\bin\Debug\ProjectTemplates\CSharp\Wpf.Ui.Fluent\1033\Wpf.Ui.Fluent.zip
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Fluent\obj\Debug\Wpf.Ui.Extension.Template.Fluent.csproj.AssemblyReference.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Fluent\obj\Debug\_EmptyResource.resources
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Fluent\obj\Debug\Wpf.Ui.Extension.Template.Fluent.csproj.GenerateResource.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Fluent\obj\Debug\Wpf.Ui.Extension.Template.Fluent.csproj.CoreCompileInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Fluent\obj\Debug\CSharp\Wpf.Ui.Fluent\1033\Wpf.Ui.Fluent.zip
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Fluent\obj\Debug\Wpf.Ui.Extension.Template.Fluent.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Extension.Template.Fluent\obj\Debug\Wpf.Ui.Extension.Template.Fluent.pdb

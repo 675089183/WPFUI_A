@@ -1,0 +1,72 @@
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - Fluent System Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - Microsoft.Ui.Xaml.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - Segoe Fluent Icons.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - VirtualizingWrapPanel.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - Windows Presentation Foundation.txt
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.Tray.deps.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.Tray.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.Tray.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.Tray.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.csproj.AssemblyReference.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.AssemblyInfoInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.AssemblyInfo.cs
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.csproj.CoreCompileInputs.cache
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.sourcelink.json
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.T.4D720FA6.Up2Date
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\refint\Wpf.Ui.Tray.dll
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.xml
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.pdb
+D:\WPFProject\demo\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\ref\Wpf.Ui.Tray.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - Fluent System Icons.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - Microsoft.Ui.Xaml.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - Segoe Fluent Icons.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - VirtualizingWrapPanel.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - Windows Presentation Foundation.txt
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.Tray.deps.json
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.Tray.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.Tray.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.Tray.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.csproj.AssemblyReference.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.AssemblyInfoInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.AssemblyInfo.cs
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.csproj.CoreCompileInputs.cache
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.sourcelink.json
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.T.4D720FA6.Up2Date
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\refint\Wpf.Ui.Tray.dll
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.xml
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.pdb
+D:\WPF-UI work\wpfui-main\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\ref\Wpf.Ui.Tray.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - Fluent System Icons.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - Microsoft.Ui.Xaml.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - Segoe Fluent Icons.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - VirtualizingWrapPanel.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\License - Windows Presentation Foundation.txt
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.Tray.deps.json
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.Tray.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.Tray.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.Tray.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\bin\Debug\net7.0-windows\Wpf.Ui.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.csproj.AssemblyReference.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.AssemblyInfoInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.AssemblyInfo.cs
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.csproj.CoreCompileInputs.cache
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.sourcelink.json
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.T.4D720FA6.Up2Date
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\refint\Wpf.Ui.Tray.dll
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.xml
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\Wpf.Ui.Tray.pdb
+D:\WPFProject\WPF_DM\wpfui-main\src\Wpf.Ui.Tray\obj\Debug\net7.0-windows\ref\Wpf.Ui.Tray.dll
