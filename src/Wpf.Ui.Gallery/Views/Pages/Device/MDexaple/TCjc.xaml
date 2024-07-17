@@ -14,8 +14,7 @@
       d:DesignHeight="1050" d:DesignWidth="1500"
       Title="cs">
 
-    <Border  BorderBrush="Black" BorderThickness="1" CornerRadius="4" Padding="5"  >
-        <Grid>
+      <Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
@@ -27,7 +26,7 @@
             </Grid>-->
             <!-- Top Section -->
             <Grid Grid.Row="0">
-                <Border Grid.Row="0" BorderBrush="Black" BorderThickness="0.2" CornerRadius="4" Padding="5" Margin="15">
+            <Border Style="{StaticResource CustomBorder}" Grid.Row="0" BorderBrush="Black" CornerRadius="4" Padding="15" Margin="10 20 10 20">
                     <TextBlock Text="请将不合格的小袋人工拿走后再开机，亮灯则为不合格。" FontWeight="Bold" />
 
                 </Border>
@@ -221,5 +220,4 @@
             </Grid>
 
         </Grid>
-    </Border>
 </Page>

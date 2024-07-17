@@ -11,7 +11,7 @@
       d:DesignHeight="1000" d:DesignWidth="1200"
       Title="cs">
 
-    <Border  BorderBrush="Black" BorderThickness="1"  Padding="0" Style="{StaticResource CustomBorder}">
+    <Border Margin="0 30 0 0" Style="{StaticResource CustomBorder}"  CornerRadius="8" BorderBrush="Black"  Padding="0">
         <Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="70" />
@@ -40,7 +40,7 @@
                     <RowDefinition Height="*" />
                 </Grid.RowDefinitions>
 
-                <Border Margin="0,0,0,0" Padding="10" Grid.Row="0" Background="LightBlue">
+                <Border Margin="0,0,0,0" Padding="10" Grid.Row="0" Background="#069EFE">
                     <Grid>
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="*" />

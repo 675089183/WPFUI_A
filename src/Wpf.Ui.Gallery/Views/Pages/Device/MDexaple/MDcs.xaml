@@ -5,7 +5,7 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:controls="clr-namespace:Wpf.Ui.Gallery.Controls"
       xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
-       xmlns:AAA="clr-namespace:Wpf.Ui.Gallery.Controls"
+      xmlns:AAA="clr-namespace:Wpf.Ui.Gallery.Controls"
       mc:Ignorable="d" 
       controls:PageControlDocumentation.DocumentationType="{x:Type ui:NumberBox}"
     
@@ -19,7 +19,6 @@
         </DataTemplate>
     </Page.Resources>
 
-    <Border  BorderBrush="Black" BorderThickness="1" CornerRadius="4" Padding="5" Style="{StaticResource CustomBorder}" >
         <Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto" />
@@ -28,7 +27,7 @@
 
             <!-- Top Section -->
             <Grid Grid.Row="0">
-                <Border Grid.Row="0" BorderBrush="Black" BorderThickness="0.2" CornerRadius="4" Padding="5" Margin="5">
+            <Border Style="{StaticResource CustomBorder}" Grid.Row="0" BorderBrush="Black" BorderThickness="0.2,0.2,0.1,0.1" CornerRadius="4" Padding="5" Margin="5">
                     <TextBlock Text="一般参数" FontWeight="Bold" />
                 </Border>
                 <!-- Content of the top section -->
@@ -46,5 +45,4 @@
             </Grid>
 
         </Grid>
-    </Border>
 </Page>

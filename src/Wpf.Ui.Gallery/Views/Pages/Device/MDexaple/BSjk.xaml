@@ -12,7 +12,6 @@
       d:DesignHeight="650" d:DesignWidth="1000"
       Title="cs">
 
-    <Border  BorderBrush="Black" BorderThickness="1" CornerRadius="4" Padding="5"  >
         <Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="*" />
@@ -21,7 +20,7 @@
 
             <!-- Top Section -->
             <Grid Grid.Row="0">
-                <Border Grid.Row="0" BorderBrush="Black" BorderThickness="0.2" CornerRadius="4" Padding="5" Margin="5">
+            <Border Grid.Row="0"  Style="{StaticResource CustomBorder}" BorderBrush="Black"  CornerRadius="4" Padding="5" Margin="5">
                     <TextBlock Text="倍数缓存控制" FontWeight="Bold" />
                 </Border>
                 <!-- Content of the top section -->
@@ -129,5 +128,4 @@
             </Grid>
 
         </Grid>
-    </Border>
 </Page>
